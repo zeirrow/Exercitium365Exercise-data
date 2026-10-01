@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "ex_001",
+    "name": "Dumbbell Biceps Curl",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Biceps+Curl+Animation",
+    "description": "An isolation exercise emphasizing the elbow flexors, especially the biceps brachii.",
+    "instructions": [
+      "Stand upright holding a dumbbell in each hand with your palms facing forward.",
+      "Keep your elbows close to your sides.",
+      "Curl the weights toward your shoulders without swinging your upper arms.",
+      "Lower the dumbbells under control."
+    ]
+  },
+  {
+    "id": "ex_002",
+    "name": "Hammer Curl",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Hammer+Curl+Animation",
+    "description": "A curl variation using a neutral grip that trains the biceps and brachialis.",
+    "instructions": [
+      "Stand with a dumbbell in each hand and palms facing each other.",
+      "Keep your elbows close to your torso.",
+      "Curl the dumbbells toward your shoulders while maintaining the neutral grip.",
+      "Lower the weights slowly."
+    ]
+  },
+  {
+    "id": "ex_003",
+    "name": "Concentration Curl",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Concentration+Curl+Animation",
+    "description": "A supported single-arm curl that limits body movement and emphasizes the biceps.",
+    "instructions": [
+      "Sit with your legs apart and hold a dumbbell in one hand.",
+      "Brace the back of your upper arm against the inside of your thigh.",
+      "Curl the dumbbell toward your shoulder.",
+      "Lower it slowly until your elbow is extended comfortably."
+    ]
+  },
+  {
+    "id": "ex_004",
+    "name": "Incline Dumbbell Curl",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Incline+Dumbbell+Curl+Animation",
+    "description": "A biceps curl performed on an incline bench with the arms positioned behind the torso.",
+    "instructions": [
+      "Set an adjustable bench to a moderate incline.",
+      "Sit back with a dumbbell in each hand and let your arms hang naturally.",
+      "Curl the dumbbells while keeping your upper arms relatively still.",
+      "Lower them under control."
+    ]
+  },
+  {
+    "id": "ex_005",
+    "name": "EZ-Bar Curl",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=EZ-Bar+Curl+Animation",
+    "description": "A barbell curl variation using an angled grip to train the elbow flexors.",
+    "instructions": [
+      "Stand holding an EZ-bar with a comfortable underhand grip.",
+      "Keep your elbows near your sides.",
+      "Curl the bar toward your chest.",
+      "Lower it slowly without swinging."
+    ]
+  },
+  {
+    "id": "ex_006",
+    "name": "Cable Biceps Curl",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Biceps+Curl+Animation",
+    "description": "A cable-based curl that provides relatively consistent resistance through the movement.",
+    "instructions": [
+      "Attach a straight or suitable handle to a low cable.",
+      "Stand upright and hold the handle with an underhand grip.",
+      "Curl the handle toward your shoulders.",
+      "Return to the starting position under control."
+    ]
+  },
+  {
+    "id": "ex_007",
+    "name": "Triceps Pushdown",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Triceps+Pushdown+Animation",
+    "description": "A cable exercise that primarily trains elbow extension through the triceps.",
+    "instructions": [
+      "Stand facing a high cable attachment.",
+      "Hold the handle with your elbows close to your torso.",
+      "Push the handle downward until your elbows are comfortably extended.",
+      "Return slowly to the starting position."
+    ]
+  },
+  {
+    "id": "ex_008",
+    "name": "Overhead Triceps Extension",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Overhead+Triceps+Extension+Animation",
+    "description": "An overhead elbow-extension exercise that trains the triceps through a long range of motion.",
+    "instructions": [
+      "Hold one dumbbell with both hands above your head.",
+      "Keep your upper arms near your ears.",
+      "Bend your elbows to lower the weight behind your head.",
+      "Extend your elbows to raise the weight again."
+    ]
+  },
+  {
+    "id": "ex_009",
+    "name": "Close-Grip Push-Up",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Close-Grip+Push-Up+Animation",
+    "description": "A push-up variation that increases the contribution of the triceps while also training the chest and shoulders.",
+    "instructions": [
+      "Start in a plank with your hands somewhat narrower than shoulder width.",
+      "Brace your trunk and lower your body with your elbows controlled.",
+      "Press through your hands to return to the starting position.",
+      "Keep your body aligned throughout the repetition."
+    ]
+  },
+  {
+    "id": "ex_010",
+    "name": "Bench Dip",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bench+Dip+Animation",
+    "description": "A bodyweight elbow-extension exercise emphasizing the triceps.",
+    "instructions": [
+      "Place your hands on the edge of a stable bench behind you.",
+      "Position your feet comfortably in front of you.",
+      "Bend your elbows to lower your body a controlled distance.",
+      "Press through your hands to return upward."
+    ]
+  },
+  {
+    "id": "ex_011",
+    "name": "Diamond Push-Up",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Advanced",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Diamond+Push-Up+Animation",
+    "description": "A narrow-hand push-up that places substantial demand on the triceps.",
+    "instructions": [
+      "Start in a plank with your hands close together beneath your chest.",
+      "Lower your body while keeping your trunk stable.",
+      "Press the floor away to extend your elbows.",
+      "Maintain controlled movement throughout."
+    ]
+  },
+  {
+    "id": "ex_012",
+    "name": "Assisted Triceps Dip",
+    "category": "Arms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Assisted+Triceps+Dip+Animation",
+    "description": "A machine-assisted dip that allows the user to train the triceps with reduced bodyweight loading.",
+    "instructions": [
+      "Set the assisted dip machine to an appropriate assistance level.",
+      "Grip the parallel handles and stabilize your shoulders.",
+      "Lower your body with controlled elbow flexion.",
+      "Press through the handles to return to the top."
+    ]
+  },
+  {
+    "id": "ex_013",
+    "name": "Seated Dumbbell Shoulder Press",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Seated+Dumbbell+Shoulder+Press+Animation",
+    "description": "A vertical pressing movement that trains the deltoids and triceps.",
+    "instructions": [
+      "Sit upright with a dumbbell in each hand at shoulder height.",
+      "Press the dumbbells upward without excessively arching your back.",
+      "Lower them under control to shoulder level.",
+      "Repeat smoothly."
+    ]
+  },
+  {
+    "id": "ex_014",
+    "name": "Standing Barbell Overhead Press",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Standing+Barbell+Overhead+Press+Animation",
+    "description": "A compound vertical press targeting the shoulders, triceps, and trunk stabilizers.",
+    "instructions": [
+      "Hold the bar at upper-chest level with a comfortable overhand grip.",
+      "Brace your trunk and press the bar overhead.",
+      "Move your head slightly back as needed to clear the bar.",
+      "Lower the bar under control."
+    ]
+  },
+  {
+    "id": "ex_015",
+    "name": "Dumbbell Lateral Raise",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Lateral+Raise+Animation",
+    "description": "An isolation movement emphasizing the middle deltoid.",
+    "instructions": [
+      "Stand with light dumbbells at your sides.",
+      "Raise your arms outward in a controlled arc.",
+      "Stop around shoulder height or within a comfortable range.",
+      "Lower the weights slowly."
+    ]
+  },
+  {
+    "id": "ex_016",
+    "name": "Cable Lateral Raise",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Lateral+Raise+Animation",
+    "description": "A unilateral cable exercise emphasizing the middle deltoid.",
+    "instructions": [
+      "Set a cable pulley near the bottom position.",
+      "Stand sideways to the machine and hold the handle with the far hand.",
+      "Raise the arm outward toward shoulder height.",
+      "Lower it slowly."
+    ]
+  },
+  {
+    "id": "ex_017",
+    "name": "Front Dumbbell Raise",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Front+Dumbbell+Raise+Animation",
+    "description": "A shoulder-raising movement emphasizing the anterior deltoid.",
+    "instructions": [
+      "Hold dumbbells in front of your thighs.",
+      "Raise one or both arms forward in a controlled motion.",
+      "Stop around shoulder height if comfortable.",
+      "Lower the weights slowly."
+    ]
+  },
+  {
+    "id": "ex_018",
+    "name": "Reverse Dumbbell Fly",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Dumbbell+Fly+Animation",
+    "description": "A rear-shoulder movement emphasizing the posterior deltoids and upper-back musculature.",
+    "instructions": [
+      "Hinge forward with a neutral spine while holding dumbbells.",
+      "Let the weights hang beneath your chest.",
+      "Raise your arms outward while keeping the movement controlled.",
+      "Lower them slowly."
+    ]
+  },
+  {
+    "id": "ex_019",
+    "name": "Face Pull",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Face+Pull+Animation",
+    "description": "A cable pulling exercise that trains the rear deltoids and upper-back muscles.",
+    "instructions": [
+      "Attach a rope to a cable at approximately upper-face height.",
+      "Pull the rope toward your face while separating your hands.",
+      "Keep your shoulders controlled rather than shrugging.",
+      "Return the rope slowly."
+    ]
+  },
+  {
+    "id": "ex_020",
+    "name": "Arnold Press",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Arnold+Press+Animation",
+    "description": "A dumbbell shoulder press incorporating rotation during the pressing movement.",
+    "instructions": [
+      "Start seated with dumbbells in front of your shoulders and palms facing you.",
+      "Rotate your palms outward while pressing overhead.",
+      "Lower the dumbbells while reversing the rotation.",
+      "Use controlled movement throughout."
+    ]
+  },
+  {
+    "id": "ex_021",
+    "name": "Landmine Press",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Landmine+Press+Animation",
+    "description": "An angled pressing movement that trains the shoulders, triceps, and upper chest.",
+    "instructions": [
+      "Hold the end of a secured barbell near shoulder height.",
+      "Brace your trunk and press the bar upward and forward.",
+      "Keep the movement controlled.",
+      "Return the bar toward your shoulder."
+    ]
+  },
+  {
+    "id": "ex_022",
+    "name": "Cable Y-Raise",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Y-Raise+Animation",
+    "description": "A light-resistance shoulder movement emphasizing upward-rotating shoulder musculature.",
+    "instructions": [
+      "Use two low cable handles or suitable cable attachments.",
+      "Raise your arms diagonally upward into a Y shape.",
+      "Keep the motion smooth and avoid shrugging excessively.",
+      "Lower your arms slowly."
+    ]
+  },
+  {
+    "id": "ex_023",
+    "name": "Dumbbell Scaption",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Scaption+Animation",
+    "description": "A shoulder elevation movement performed in the scapular plane.",
+    "instructions": [
+      "Hold light dumbbells with your palms facing inward.",
+      "Raise your arms slightly forward from your sides.",
+      "Lift them within a comfortable range.",
+      "Lower them slowly."
+    ]
+  },
+  {
+    "id": "ex_024",
+    "name": "Machine Shoulder Press",
+    "category": "Shoulders",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Machine+Shoulder+Press+Animation",
+    "description": "A machine-based vertical press that trains the deltoids and triceps.",
+    "instructions": [
+      "Adjust the seat so the handles begin around shoulder level.",
+      "Grip the handles and brace your trunk.",
+      "Press upward without locking the elbows aggressively.",
+      "Return the handles under control."
+    ]
+  },
+  {
+    "id": "ex_025",
+    "name": "Push-Up",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Push-Up+Animation",
+    "description": "A foundational bodyweight pressing exercise emphasizing the chest, triceps, and anterior shoulders.",
+    "instructions": [
+      "Start in a plank position with your hands approximately shoulder-width apart.",
+      "Lower your body while maintaining a stable trunk.",
+      "Press the floor away to return to the starting position.",
+      "Use a controlled range of motion."
+    ]
+  },
+  {
+    "id": "ex_026",
+    "name": "Incline Push-Up",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Incline+Push-Up+Animation",
+    "description": "A modified push-up using an elevated surface to reduce loading while training the chest.",
+    "instructions": [
+      "Place your hands on a stable elevated surface.",
+      "Walk your feet back into a straight-body position.",
+      "Lower your chest toward the surface.",
+      "Press back to the starting position."
+    ]
+  },
+  {
+    "id": "ex_027",
+    "name": "Decline Push-Up",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Decline+Push-Up+Animation",
+    "description": "A push-up with elevated feet that increases the relative loading of the upper body.",
+    "instructions": [
+      "Place your feet on a stable elevated surface.",
+      "Position your hands on the floor.",
+      "Lower your chest toward the floor while maintaining alignment.",
+      "Press back up."
+    ]
+  },
+  {
+    "id": "ex_028",
+    "name": "Dumbbell Bench Press",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Bench+Press+Animation",
+    "description": "A horizontal pressing movement emphasizing the pectoral muscles.",
+    "instructions": [
+      "Lie on a flat bench holding dumbbells near your chest.",
+      "Press the dumbbells upward while maintaining stable shoulders.",
+      "Lower them under control toward the sides of your chest.",
+      "Repeat smoothly."
+    ]
+  },
+  {
+    "id": "ex_029",
+    "name": "Barbell Bench Press",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Barbell+Bench+Press+Animation",
+    "description": "A compound horizontal press that strongly trains the pectorals and also involves the triceps and shoulders.",
+    "instructions": [
+      "Lie on a bench with the bar positioned above your chest.",
+      "Grip the bar securely and unrack it with appropriate assistance when needed.",
+      "Lower it toward the mid-chest under control.",
+      "Press it upward without losing shoulder or trunk stability."
+    ]
+  },
+  {
+    "id": "ex_030",
+    "name": "Incline Dumbbell Press",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Incline+Dumbbell+Press+Animation",
+    "description": "An incline pressing movement emphasizing the clavicular portion of the pectoralis major.",
+    "instructions": [
+      "Set a bench to a moderate incline.",
+      "Hold dumbbells near the upper chest.",
+      "Press them upward while keeping your shoulders controlled.",
+      "Lower them slowly."
+    ]
+  },
+  {
+    "id": "ex_031",
+    "name": "Cable Chest Fly",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Chest+Fly+Animation",
+    "description": "A cable fly that trains horizontal shoulder adduction with emphasis on the chest.",
+    "instructions": [
+      "Set two cable handles around chest height.",
+      "Stand between the cables with a slight bend in your elbows.",
+      "Bring your hands together in front of your chest.",
+      "Return slowly while maintaining control."
+    ]
+  },
+  {
+    "id": "ex_032",
+    "name": "Dumbbell Chest Fly",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Chest+Fly+Animation",
+    "description": "A fly movement emphasizing the pectoral muscles through horizontal shoulder adduction.",
+    "instructions": [
+      "Lie on a flat bench with dumbbells held above your chest.",
+      "Maintain a slight bend in your elbows.",
+      "Lower the weights outward in a controlled arc.",
+      "Bring them back together above your chest."
+    ]
+  },
+  {
+    "id": "ex_033",
+    "name": "Chest Press Machine",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Chest+Press+Machine+Animation",
+    "description": "A machine-based horizontal press that trains the chest and triceps.",
+    "instructions": [
+      "Adjust the seat so the handles align approximately with mid-chest.",
+      "Grip the handles and stabilize your shoulders.",
+      "Press the handles forward.",
+      "Return them slowly."
+    ]
+  },
+  {
+    "id": "ex_034",
+    "name": "Low-Incline Push-Up",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Low-Incline+Push-Up+Animation",
+    "description": "A slightly elevated push-up variation suitable for building pressing strength.",
+    "instructions": [
+      "Place your hands on a low stable platform.",
+      "Keep your body in a straight line.",
+      "Lower your chest toward the platform.",
+      "Press back up."
+    ]
+  },
+  {
+    "id": "ex_035",
+    "name": "Pec Deck Fly",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Pec+Deck+Fly+Animation",
+    "description": "A machine fly that emphasizes the pectoral muscles.",
+    "instructions": [
+      "Adjust the machine so your elbows or hands align comfortably with your chest.",
+      "Brace your trunk and grip the pads or handles.",
+      "Bring the arms together in front of you.",
+      "Return slowly to the starting position."
+    ]
+  },
+  {
+    "id": "ex_036",
+    "name": "Kneeling Push-Up",
+    "category": "Chest",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Kneeling+Push-Up+Animation",
+    "description": "A modified push-up that reduces the amount of bodyweight supported by the upper body.",
+    "instructions": [
+      "Place your hands beneath your shoulders and knees on the floor.",
+      "Keep your torso aligned from your knees through your head.",
+      "Lower your chest toward the floor.",
+      "Press back up."
+    ]
+  },
+  {
+    "id": "ex_037",
+    "name": "Barbell Hip Thrust",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Barbell+Hip+Thrust+Animation",
+    "description": "A hip-extension exercise strongly emphasizing the gluteus maximus. The movement is suitable for all genders; programming can be individualized by training goal rather than sex.",
+    "instructions": [
+      "Position your upper back against a stable bench and place a padded barbell across your hips.",
+      "Plant your feet and brace your trunk.",
+      "Drive through your feet to extend your hips.",
+      "Pause briefly near the top and lower under control."
+    ]
+  },
+  {
+    "id": "ex_038",
+    "name": "Glute Bridge",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Glute+Bridge+Animation",
+    "description": "A bodyweight hip-extension exercise that trains the gluteus maximus.",
+    "instructions": [
+      "Lie on your back with your knees bent and feet planted.",
+      "Brace your trunk.",
+      "Drive through your feet to lift your hips.",
+      "Lower your hips slowly."
+    ]
+  },
+  {
+    "id": "ex_039",
+    "name": "Single-Leg Glute Bridge",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Single-Leg+Glute+Bridge+Animation",
+    "description": "A unilateral bridge variation that challenges hip extension and pelvic control.",
+    "instructions": [
+      "Lie on your back with one foot planted and the other leg extended.",
+      "Brace your trunk and press through the planted foot.",
+      "Lift your hips while keeping your pelvis controlled.",
+      "Lower slowly and repeat."
+    ]
+  },
+  {
+    "id": "ex_040",
+    "name": "Bulgarian Split Squat",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bulgarian+Split+Squat+Animation",
+    "description": "A unilateral squat variation that trains the glutes and quadriceps while challenging balance.",
+    "instructions": [
+      "Place the top of one foot on a stable bench behind you.",
+      "Position the other foot far enough forward for a comfortable range.",
+      "Lower your body by bending the front knee and hip.",
+      "Drive through the front foot to stand."
+    ]
+  },
+  {
+    "id": "ex_041",
+    "name": "Romanian Deadlift",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Romanian+Deadlift+Animation",
+    "description": "A hip-hinge movement emphasizing the glutes and hamstrings.",
+    "instructions": [
+      "Hold a barbell or dumbbells in front of your thighs.",
+      "Push your hips backward while keeping your spine neutral.",
+      "Lower the weights along your legs until you feel an appropriate stretch.",
+      "Drive your hips forward to stand."
+    ]
+  },
+  {
+    "id": "ex_042",
+    "name": "Cable Glute Kickback",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Glute+Kickback+Animation",
+    "description": "A hip-extension exercise emphasizing the gluteus maximus.",
+    "instructions": [
+      "Attach an ankle strap to a low cable.",
+      "Brace yourself against the machine.",
+      "Extend the working leg backward without twisting your pelvis.",
+      "Return the leg slowly."
+    ]
+  },
+  {
+    "id": "ex_043",
+    "name": "Quadruped Hip Extension",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Quadruped+Hip+Extension+Animation",
+    "description": "A bodyweight hip-extension movement emphasizing the gluteus maximus.",
+    "instructions": [
+      "Start on your hands and knees.",
+      "Brace your trunk and keep your pelvis stable.",
+      "Drive one foot upward and backward without arching excessively.",
+      "Lower the leg with control."
+    ]
+  },
+  {
+    "id": "ex_044",
+    "name": "Side-Lying Hip Abduction",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Side-Lying+Hip+Abduction+Animation",
+    "description": "A hip-abduction exercise emphasizing the gluteus medius and other lateral hip muscles.",
+    "instructions": [
+      "Lie on your side with your legs extended.",
+      "Keep your pelvis stacked and stable.",
+      "Raise the upper leg without rotating your toes upward.",
+      "Lower it slowly."
+    ]
+  },
+  {
+    "id": "ex_045",
+    "name": "Banded Lateral Walk",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Banded+Lateral+Walk+Animation",
+    "description": "A resisted lateral movement that trains the hip abductors, including the gluteus medius.",
+    "instructions": [
+      "Place a resistance band around your thighs or lower legs as appropriate.",
+      "Adopt a comfortable athletic stance.",
+      "Step sideways while maintaining band tension.",
+      "Continue in both directions with controlled steps."
+    ]
+  },
+  {
+    "id": "ex_046",
+    "name": "Step-Up",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Step-Up+Animation",
+    "description": "A unilateral step exercise that trains the glutes and quadriceps.",
+    "instructions": [
+      "Stand facing a stable step or platform.",
+      "Place one foot fully on the platform.",
+      "Drive through that foot to step upward.",
+      "Lower yourself under control."
+    ]
+  },
+  {
+    "id": "ex_047",
+    "name": "Reverse Lunge",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Lunge+Animation",
+    "description": "A unilateral leg exercise involving the glutes, quadriceps, and hamstrings.",
+    "instructions": [
+      "Stand tall with your feet comfortable apart.",
+      "Step one foot backward.",
+      "Lower your body while bending both knees.",
+      "Push through the front foot to return to standing."
+    ]
+  },
+  {
+    "id": "ex_048",
+    "name": "Frog Pump",
+    "category": "Butt",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Frog+Pump+Animation",
+    "description": "A bodyweight hip-extension variation that emphasizes the gluteal muscles.",
+    "instructions": [
+      "Lie on your back and bring the soles of your feet together.",
+      "Allow your knees to open comfortably.",
+      "Drive through your feet to lift your hips.",
+      "Lower your hips under control."
+    ]
+  },
+  {
+    "id": "ex_049",
+    "name": "Bodyweight Squat",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bodyweight+Squat+Animation",
+    "description": "A fundamental lower-body movement training the quadriceps, glutes, and hamstrings.",
+    "instructions": [
+      "Stand with your feet at a comfortable width.",
+      "Bend your hips and knees to lower your body.",
+      "Keep your feet planted and your trunk controlled.",
+      "Push through your feet to stand."
+    ]
+  },
+  {
+    "id": "ex_050",
+    "name": "Goblet Squat",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Goblet+Squat+Animation",
+    "description": "A squat variation using a dumbbell or kettlebell held near the chest.",
+    "instructions": [
+      "Hold a dumbbell or kettlebell close to your chest.",
+      "Squat down while keeping your feet planted.",
+      "Maintain a controlled torso position.",
+      "Drive through the floor to stand."
+    ]
+  },
+  {
+    "id": "ex_051",
+    "name": "Barbell Back Squat",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Advanced",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Barbell+Back+Squat+Animation",
+    "description": "A loaded squat that trains the quadriceps, glutes, and other lower-body muscles.",
+    "instructions": [
+      "Position a properly loaded barbell securely across your upper back.",
+      "Brace your trunk and squat by bending the hips and knees.",
+      "Keep the bar controlled over your base of support.",
+      "Drive through your feet to return to standing."
+    ]
+  },
+  {
+    "id": "ex_052",
+    "name": "Front Squat",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Advanced",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Front+Squat+Animation",
+    "description": "A barbell squat variation that places the load in front of the body and strongly challenges the quadriceps and trunk.",
+    "instructions": [
+      "Position the bar securely across the front of your shoulders.",
+      "Brace your trunk and descend into a squat.",
+      "Keep your elbows appropriately elevated for your grip.",
+      "Drive upward through your feet."
+    ]
+  },
+  {
+    "id": "ex_053",
+    "name": "Leg Press",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Leg+Press+Animation",
+    "description": "A machine-based compound exercise training the quadriceps, glutes, and hamstrings.",
+    "instructions": [
+      "Position your feet securely on the platform.",
+      "Release the safety mechanism according to the machine instructions.",
+      "Lower the platform under control.",
+      "Press through your feet to return without forcefully locking your knees."
+    ]
+  },
+  {
+    "id": "ex_054",
+    "name": "Leg Extension",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Leg+Extension+Animation",
+    "description": "An isolation exercise emphasizing the quadriceps.",
+    "instructions": [
+      "Adjust the machine so the knee joint aligns appropriately with its pivot.",
+      "Place your lower legs against the pad.",
+      "Extend your knees smoothly.",
+      "Lower the weight under control."
+    ]
+  },
+  {
+    "id": "ex_055",
+    "name": "Lying Leg Curl",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Lying+Leg+Curl+Animation",
+    "description": "An isolation movement emphasizing the hamstrings.",
+    "instructions": [
+      "Lie face down on the machine and position your ankles beneath the pads.",
+      "Keep your hips stable against the pad.",
+      "Curl your heels toward your glutes.",
+      "Lower the weight slowly."
+    ]
+  },
+  {
+    "id": "ex_056",
+    "name": "Seated Leg Curl",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Seated+Leg+Curl+Animation",
+    "description": "A seated machine exercise emphasizing the hamstrings.",
+    "instructions": [
+      "Adjust the seat and thigh pad securely.",
+      "Position your lower legs against the roller.",
+      "Bend your knees to pull the roller downward and backward.",
+      "Return the weight slowly."
+    ]
+  },
+  {
+    "id": "ex_057",
+    "name": "Standing Calf Raise",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Standing+Calf+Raise+Animation",
+    "description": "A calf exercise emphasizing the gastrocnemius and soleus through plantarflexion.",
+    "instructions": [
+      "Stand with the balls of your feet supported and your heels free.",
+      "Rise onto your toes as high as comfortable.",
+      "Pause briefly near the top.",
+      "Lower your heels slowly."
+    ]
+  },
+  {
+    "id": "ex_058",
+    "name": "Seated Calf Raise",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Seated+Calf+Raise+Animation",
+    "description": "A seated plantarflexion exercise that emphasizes the soleus.",
+    "instructions": [
+      "Sit with the balls of your feet supported and your knees bent.",
+      "Raise your heels by pressing through the balls of your feet.",
+      "Pause briefly at the top.",
+      "Lower your heels slowly."
+    ]
+  },
+  {
+    "id": "ex_059",
+    "name": "Walking Lunge",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Walking+Lunge+Animation",
+    "description": "A dynamic unilateral lower-body exercise training the quadriceps, glutes, and hamstrings.",
+    "instructions": [
+      "Stand tall and step forward with one leg.",
+      "Lower your body until both knees are comfortably bent.",
+      "Push through the front foot to step forward.",
+      "Alternate legs as you move."
+    ]
+  },
+  {
+    "id": "ex_060",
+    "name": "Romanian Deadlift",
+    "category": "Legs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Romanian+Deadlift+Animation",
+    "description": "A hip-hinge exercise primarily training the hamstrings and glutes.",
+    "instructions": [
+      "Hold the weights in front of your thighs.",
+      "Push your hips backward while maintaining a neutral spine.",
+      "Lower the weights until an appropriate hamstring stretch is felt.",
+      "Drive the hips forward to stand."
+    ]
+  },
+  {
+    "id": "ex_061",
+    "name": "Dead Bug",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dead+Bug+Animation",
+    "description": "A core-stability exercise emphasizing trunk control while the limbs move.",
+    "instructions": [
+      "Lie on your back with your hips and knees bent.",
+      "Brace your abdominal muscles while maintaining a controlled spine position.",
+      "Slowly extend the opposite arm and leg.",
+      "Return them and alternate sides."
+    ]
+  },
+  {
+    "id": "ex_062",
+    "name": "Bird Dog",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bird+Dog+Animation",
+    "description": "A quadruped stability exercise training the trunk and hip musculature.",
+    "instructions": [
+      "Start on your hands and knees.",
+      "Brace your trunk and extend one arm and the opposite leg.",
+      "Keep your pelvis relatively level.",
+      "Return slowly and switch sides."
+    ]
+  },
+  {
+    "id": "ex_063",
+    "name": "Plank",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Plank+Animation",
+    "description": "An isometric trunk exercise that trains the abdominal and spinal stabilizing muscles.",
+    "instructions": [
+      "Support yourself on your forearms and toes.",
+      "Brace your trunk and keep your body aligned.",
+      "Breathe normally while maintaining the position.",
+      "Stop when you can no longer maintain good form."
+    ]
+  },
+  {
+    "id": "ex_064",
+    "name": "Side Plank",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Side+Plank+Animation",
+    "description": "An isometric exercise emphasizing the lateral trunk muscles and obliques.",
+    "instructions": [
+      "Lie on your side and support your body on one forearm.",
+      "Stack or stagger your feet for balance.",
+      "Lift your hips until your body forms a straight line.",
+      "Hold while maintaining controlled breathing."
+    ]
+  },
+  {
+    "id": "ex_065",
+    "name": "Reverse Crunch",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Crunch+Animation",
+    "description": "A trunk-flexion exercise that emphasizes the abdominal musculature.",
+    "instructions": [
+      "Lie on your back with your knees bent.",
+      "Brace your abdomen and bring your knees toward your torso.",
+      "Curl your pelvis gently upward without swinging.",
+      "Lower your hips slowly."
+    ]
+  },
+  {
+    "id": "ex_066",
+    "name": "Bicycle Crunch",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bicycle+Crunch+Animation",
+    "description": "A dynamic abdominal exercise involving trunk rotation and flexion.",
+    "instructions": [
+      "Lie on your back with your hands lightly supporting your head.",
+      "Lift your legs and bend your knees.",
+      "Rotate your trunk as one knee moves toward the opposite elbow.",
+      "Alternate sides with controlled movement."
+    ]
+  },
+  {
+    "id": "ex_067",
+    "name": "Mountain Climber",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Mountain+Climber+Animation",
+    "description": "A dynamic plank exercise that challenges the abdominal muscles while also involving the hips and shoulders.",
+    "instructions": [
+      "Start in a stable high-plank position.",
+      "Drive one knee toward your chest.",
+      "Return the foot and alternate legs.",
+      "Keep your trunk controlled rather than bouncing."
+    ]
+  },
+  {
+    "id": "ex_068",
+    "name": "Hollow Body Hold",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Advanced",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Hollow+Body+Hold+Animation",
+    "description": "An advanced isometric trunk exercise requiring strong abdominal bracing.",
+    "instructions": [
+      "Lie on your back and brace your abdomen.",
+      "Lift your shoulders and legs slightly from the floor.",
+      "Keep your lower back controlled against the floor.",
+      "Hold for the prescribed duration."
+    ]
+  },
+  {
+    "id": "ex_069",
+    "name": "Ab Wheel Rollout",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Advanced",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Ab+Wheel+Rollout+Animation",
+    "description": "A demanding anti-extension core exercise requiring strong trunk control.",
+    "instructions": [
+      "Kneel with the ab wheel under your shoulders.",
+      "Brace your trunk before moving.",
+      "Roll forward only as far as you can maintain control.",
+      "Pull the wheel back by engaging your trunk and hips."
+    ]
+  },
+  {
+    "id": "ex_070",
+    "name": "Pallof Press",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Pallof+Press+Animation",
+    "description": "An anti-rotation exercise that trains the trunk's ability to resist rotational forces.",
+    "instructions": [
+      "Stand sideways to a cable or resistance band anchor.",
+      "Hold the handle at your chest.",
+      "Brace your trunk and press your hands forward.",
+      "Resist the pull trying to rotate your torso."
+    ]
+  },
+  {
+    "id": "ex_071",
+    "name": "Forearm Plank Knee Tap",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Forearm+Plank+Knee+Tap+Animation",
+    "description": "A plank variation that challenges abdominal bracing and pelvic control.",
+    "instructions": [
+      "Start in a forearm plank.",
+      "Brace your trunk and lower one knee toward the floor.",
+      "Return the leg without shifting your torso excessively.",
+      "Alternate sides."
+    ]
+  },
+  {
+    "id": "ex_072",
+    "name": "Suitcase Carry",
+    "category": "Abs",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Suitcase+Carry+Animation",
+    "description": "A loaded carry that challenges lateral trunk stability and grip.",
+    "instructions": [
+      "Hold one weight at your side.",
+      "Stand tall with your shoulders level.",
+      "Brace your trunk and walk under control.",
+      "Switch sides and repeat."
+    ]
+  },
+  {
+    "id": "ex_073",
+    "name": "Wrist Curl",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Wrist+Curl+Animation",
+    "description": "A wrist-flexion exercise emphasizing the forearm flexor muscles.",
+    "instructions": [
+      "Sit and rest your forearms on your thighs or a bench.",
+      "Hold light dumbbells with your palms facing upward.",
+      "Curl your wrists upward.",
+      "Lower the weights slowly."
+    ]
+  },
+  {
+    "id": "ex_074",
+    "name": "Reverse Wrist Curl",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Wrist+Curl+Animation",
+    "description": "A wrist-extension exercise emphasizing the forearm extensor muscles.",
+    "instructions": [
+      "Rest your forearms securely on your thighs or a bench.",
+      "Hold light weights with your palms facing downward.",
+      "Extend your wrists upward.",
+      "Lower the weights under control."
+    ]
+  },
+  {
+    "id": "ex_075",
+    "name": "Farmer's Carry",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Farmer's+Carry+Animation",
+    "description": "A loaded carry that strongly challenges grip and forearm endurance.",
+    "instructions": [
+      "Hold a weight in each hand.",
+      "Stand tall with your shoulders controlled.",
+      "Walk with steady, deliberate steps.",
+      "Set the weights down safely after the desired distance."
+    ]
+  },
+  {
+    "id": "ex_076",
+    "name": "Plate Pinch Hold",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Plate+Pinch+Hold+Animation",
+    "description": "A grip exercise emphasizing the thumb and finger muscles of the hand and forearm.",
+    "instructions": [
+      "Hold a suitable weight plate between your thumb and fingers.",
+      "Stand upright while keeping the wrist neutral.",
+      "Hold for the prescribed duration.",
+      "Lower the plate carefully."
+    ]
+  },
+  {
+    "id": "ex_077",
+    "name": "Dead Hang",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dead+Hang+Animation",
+    "description": "An isometric hanging exercise that challenges grip and forearm endurance.",
+    "instructions": [
+      "Grip a secure pull-up bar.",
+      "Hang with your body controlled and shoulders comfortable.",
+      "Maintain the grip for the desired duration.",
+      "Release carefully when finished."
+    ]
+  },
+  {
+    "id": "ex_078",
+    "name": "Towel Hang",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Advanced",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Towel+Hang+Animation",
+    "description": "A hanging grip variation that challenges the hands and forearms.",
+    "instructions": [
+      "Secure a strong towel over a suitable pull-up bar.",
+      "Grip the towel firmly with both hands.",
+      "Hang while maintaining controlled shoulders.",
+      "Release carefully when your grip begins to fatigue."
+    ]
+  },
+  {
+    "id": "ex_079",
+    "name": "Wrist Roller",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Wrist+Roller+Animation",
+    "description": "A forearm endurance exercise involving repeated wrist flexion and extension.",
+    "instructions": [
+      "Hold the wrist-roller handle at approximately chest height.",
+      "Rotate the handle to wind the attached weight upward.",
+      "Continue with controlled wrist movements.",
+      "Reverse the direction to lower the weight."
+    ]
+  },
+  {
+    "id": "ex_080",
+    "name": "Hammer Curl Hold",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Hammer+Curl+Hold+Animation",
+    "description": "An isometric neutral-grip hold that challenges the forearm and elbow-flexor musculature.",
+    "instructions": [
+      "Hold dumbbells with your palms facing each other.",
+      "Bend your elbows to approximately 90 degrees.",
+      "Maintain the position without swinging.",
+      "Lower the weights carefully."
+    ]
+  },
+  {
+    "id": "ex_081",
+    "name": "Reverse Curl",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Curl+Animation",
+    "description": "A pronated curl that trains the brachioradialis and forearm extensor musculature.",
+    "instructions": [
+      "Hold a barbell or EZ-bar with an overhand grip.",
+      "Keep your elbows near your sides.",
+      "Curl the bar upward.",
+      "Lower it slowly."
+    ]
+  },
+  {
+    "id": "ex_082",
+    "name": "Cable Wrist Flexion",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Wrist+Flexion+Animation",
+    "description": "A cable-based wrist-flexion movement for the forearm flexors.",
+    "instructions": [
+      "Attach a low cable to a suitable handle.",
+      "Rest your forearm securely while keeping your wrist free to move.",
+      "Flex your wrist toward your palm.",
+      "Return slowly."
+    ]
+  },
+  {
+    "id": "ex_083",
+    "name": "Cable Wrist Extension",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Wrist+Extension+Animation",
+    "description": "A cable-based wrist-extension movement for the forearm extensors.",
+    "instructions": [
+      "Secure a low cable attachment and position your forearm.",
+      "Keep the forearm stable.",
+      "Extend your wrist upward.",
+      "Return slowly."
+    ]
+  },
+  {
+    "id": "ex_084",
+    "name": "Rice Bucket Hand Drill",
+    "category": "Forearms",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Rice+Bucket+Hand+Drill+Animation",
+    "description": "A low-load grip and hand-conditioning drill using resistance from dry rice.",
+    "instructions": [
+      "Place your hands into a clean container of dry rice.",
+      "Open and close your hands against the rice resistance.",
+      "Move your wrists and fingers through controlled directions.",
+      "Stop if you experience pain or excessive fatigue."
+    ]
+  },
+  {
+    "id": "ex_085",
+    "name": "Lat Pulldown",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Lat+Pulldown+Animation",
+    "description": "A vertical pulling exercise emphasizing the latissimus dorsi and upper-back musculature.",
+    "instructions": [
+      "Sit at the pulldown station and secure your thighs under the pads.",
+      "Grip the bar comfortably wider than shoulder width.",
+      "Pull the bar toward your upper chest while keeping your torso controlled.",
+      "Return the bar slowly."
+    ]
+  },
+  {
+    "id": "ex_086",
+    "name": "Pull-Up",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Advanced",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Pull-Up+Animation",
+    "description": "A bodyweight vertical pull that strongly trains the latissimus dorsi and elbow flexors.",
+    "instructions": [
+      "Grip a secure pull-up bar with an overhand grip.",
+      "Brace your trunk and pull your body upward.",
+      "Move until your chin reaches the bar or an appropriate range.",
+      "Lower yourself under control."
+    ]
+  },
+  {
+    "id": "ex_087",
+    "name": "Assisted Pull-Up",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Assisted+Pull-Up+Animation",
+    "description": "A machine-assisted vertical pull that allows progressive practice of the pull-up pattern.",
+    "instructions": [
+      "Set the machine to an appropriate assistance level.",
+      "Grip the handles securely.",
+      "Pull your body upward while keeping your trunk controlled.",
+      "Lower under control."
+    ]
+  },
+  {
+    "id": "ex_088",
+    "name": "Seated Cable Row",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Seated+Cable+Row+Animation",
+    "description": "A horizontal pulling movement training the middle back, latissimus dorsi, and elbow flexors.",
+    "instructions": [
+      "Sit with your feet supported and hold the cable handle.",
+      "Brace your trunk and maintain a controlled torso.",
+      "Pull the handle toward your torso.",
+      "Extend your arms slowly to return."
+    ]
+  },
+  {
+    "id": "ex_089",
+    "name": "One-Arm Dumbbell Row",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=One-Arm+Dumbbell+Row+Animation",
+    "description": "A unilateral rowing movement emphasizing the latissimus dorsi and upper back.",
+    "instructions": [
+      "Support one hand and knee on a stable bench.",
+      "Hold the dumbbell with the opposite hand.",
+      "Pull the weight toward your torso while keeping your shoulder controlled.",
+      "Lower it slowly."
+    ]
+  },
+  {
+    "id": "ex_090",
+    "name": "Chest-Supported Dumbbell Row",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Chest-Supported+Dumbbell+Row+Animation",
+    "description": "A supported row that trains the upper and middle back while reducing the need for trunk stabilization.",
+    "instructions": [
+      "Lie chest-down on an incline bench with dumbbells in your hands.",
+      "Allow your arms to hang beneath you.",
+      "Pull the dumbbells toward your torso.",
+      "Lower them slowly."
+    ]
+  },
+  {
+    "id": "ex_091",
+    "name": "Barbell Bent-Over Row",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Advanced",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Barbell+Bent-Over+Row+Animation",
+    "description": "A compound horizontal pulling movement training the lats, rhomboids, trapezius, and other back muscles.",
+    "instructions": [
+      "Hold the barbell and hinge forward with a neutral spine.",
+      "Brace your trunk and keep the bar close to your body.",
+      "Pull the bar toward your lower chest or upper abdomen.",
+      "Lower it under control."
+    ]
+  },
+  {
+    "id": "ex_092",
+    "name": "Inverted Row",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Inverted+Row+Animation",
+    "description": "A bodyweight horizontal pulling exercise that trains the upper back and elbow flexors.",
+    "instructions": [
+      "Set a secure horizontal bar at an appropriate height.",
+      "Hang beneath it with your body straight.",
+      "Pull your chest toward the bar.",
+      "Lower yourself under control."
+    ]
+  },
+  {
+    "id": "ex_093",
+    "name": "Straight-Arm Pulldown",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": false,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Straight-Arm+Pulldown+Animation",
+    "description": "A cable exercise emphasizing shoulder extension and the latissimus dorsi.",
+    "instructions": [
+      "Attach a straight bar or rope to a high cable.",
+      "Stand facing the machine with arms extended.",
+      "Pull the attachment downward toward your thighs while keeping the elbows mostly straight.",
+      "Return slowly."
+    ]
+  },
+  {
+    "id": "ex_094",
+    "name": "Back Extension",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Back+Extension+Animation",
+    "description": "A hip-extension movement involving the spinal erectors, glutes, and hamstrings.",
+    "instructions": [
+      "Position yourself securely on a back-extension bench.",
+      "Brace your trunk and hinge at the hips.",
+      "Extend your hips until your torso returns to a neutral position.",
+      "Avoid excessive spinal hyperextension."
+    ]
+  },
+  {
+    "id": "ex_095",
+    "name": "Dumbbell Pullover",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Pullover+Animation",
+    "description": "A shoulder-extension movement involving the latissimus dorsi and chest.",
+    "instructions": [
+      "Lie across or along a stable bench while holding one dumbbell above your chest.",
+      "Lower the dumbbell behind your head through a comfortable range.",
+      "Keep your trunk controlled.",
+      "Pull the dumbbell back above your chest."
+    ]
+  },
+  {
+    "id": "ex_096",
+    "name": "Scapular Pull-Up",
+    "category": "Back",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Scapular+Pull-Up+Animation",
+    "description": "A controlled hanging exercise focusing on scapular movement and upper-back musculature.",
+    "instructions": [
+      "Hang from a secure pull-up bar.",
+      "Keep your elbows mostly straight.",
+      "Depress and retract your shoulder blades to raise your body slightly.",
+      "Relax the shoulder blades in a controlled manner."
+    ]
+  },
+  {
+    "id": "ex_097",
+    "name": "Chin Tuck",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Chin+Tuck+Animation",
+    "description": "A gentle neck exercise that trains cervical positioning. It is not a proven method for selectively removing facial fat or changing facial structure.",
+    "instructions": [
+      "Sit or stand tall with your head facing forward.",
+      "Gently draw your chin backward as though making a small double-chin motion.",
+      "Hold briefly without looking downward.",
+      "Relax and repeat."
+    ]
+  },
+  {
+    "id": "ex_098",
+    "name": "Neck Rotation",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Neck+Rotation+Animation",
+    "description": "A gentle cervical mobility exercise. It supports neck movement rather than directly reshaping facial features.",
+    "instructions": [
+      "Sit or stand upright.",
+      "Slowly rotate your head toward one side.",
+      "Return to the center.",
+      "Repeat toward the opposite side without forcing the range."
+    ]
+  },
+  {
+    "id": "ex_099",
+    "name": "Neck Side Bend",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Neck+Side+Bend+Animation",
+    "description": "A gentle neck mobility exercise for the muscles along the sides of the neck.",
+    "instructions": [
+      "Sit or stand tall.",
+      "Slowly tilt one ear toward the same-side shoulder.",
+      "Return to the center without rotating your head.",
+      "Repeat on the other side."
+    ]
+  },
+  {
+    "id": "ex_100",
+    "name": "Neck Flexion and Extension",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Neck+Flexion+and+Extension+Animation",
+    "description": "A gentle cervical mobility sequence. It should be performed within a comfortable range rather than forced.",
+    "instructions": [
+      "Sit or stand with your spine upright.",
+      "Slowly nod your head forward within a comfortable range.",
+      "Return to neutral and gently look upward without forcing the motion.",
+      "Return to neutral between repetitions."
+    ]
+  },
+  {
+    "id": "ex_101",
+    "name": "Lip Press",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Lip+Press+Animation",
+    "description": "A gentle facial-muscle exercise involving controlled lip compression. It should not be presented as a proven facial-sculpting method.",
+    "instructions": [
+      "Sit comfortably with your jaw relaxed.",
+      "Gently press your lips together.",
+      "Hold the contraction briefly without clenching your teeth.",
+      "Relax completely."
+    ]
+  },
+  {
+    "id": "ex_102",
+    "name": "Cheek Puff",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cheek+Puff+Animation",
+    "description": "A gentle facial-muscle coordination exercise involving the cheeks.",
+    "instructions": [
+      "Relax your jaw and lips.",
+      "Gently fill your cheeks with air.",
+      "Hold briefly while keeping the jaw relaxed.",
+      "Release the air slowly."
+    ]
+  },
+  {
+    "id": "ex_103",
+    "name": "Alternating Cheek Puff",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Alternating+Cheek+Puff+Animation",
+    "description": "A facial coordination drill involving controlled movement of air between the cheeks.",
+    "instructions": [
+      "Fill your mouth gently with air.",
+      "Move the air into one cheek.",
+      "Transfer it slowly to the opposite cheek.",
+      "Keep your jaw relaxed throughout."
+    ]
+  },
+  {
+    "id": "ex_104",
+    "name": "Gentle Smile Hold",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Gentle+Smile+Hold+Animation",
+    "description": "A controlled facial-expression exercise involving the muscles around the mouth and cheeks.",
+    "instructions": [
+      "Relax your jaw and forehead.",
+      "Make a comfortable natural smile.",
+      "Hold briefly without straining.",
+      "Relax fully before repeating."
+    ]
+  },
+  {
+    "id": "ex_105",
+    "name": "Eyebrow Raise",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Eyebrow+Raise+Animation",
+    "description": "A facial-expression movement involving the muscles that elevate the eyebrows.",
+    "instructions": [
+      "Relax your face.",
+      "Raise both eyebrows gently.",
+      "Hold briefly without wrinkling or straining excessively.",
+      "Relax and repeat."
+    ]
+  },
+  {
+    "id": "ex_106",
+    "name": "Gentle Eye Squeeze",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Gentle+Eye+Squeeze+Animation",
+    "description": "A light facial-muscle coordination exercise around the eyes. It is not intended to change eye shape.",
+    "instructions": [
+      "Relax your forehead and jaw.",
+      "Gently close your eyes without squeezing forcefully.",
+      "Hold briefly.",
+      "Open your eyes and relax."
+    ]
+  },
+  {
+    "id": "ex_107",
+    "name": "Tongue-to-Palate Rest Position",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Tongue-to-Palate+Rest+Position+Animation",
+    "description": "A gentle oral-posture practice emphasizing relaxed tongue placement and nasal breathing when comfortable. It should not be marketed as a guaranteed facial-reshaping technique.",
+    "instructions": [
+      "Rest the tongue gently against the palate without force.",
+      "Keep the lips comfortably closed if nasal breathing is easy.",
+      "Keep the teeth relaxed rather than clenched.",
+      "Maintain normal, comfortable breathing."
+    ]
+  },
+  {
+    "id": "ex_108",
+    "name": "Jaw Relaxation Drill",
+    "category": "Face",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Relaxation+Drill+Animation",
+    "description": "A relaxation exercise intended to reduce unnecessary jaw tension rather than increase jaw muscle size.",
+    "instructions": [
+      "Sit upright and let your shoulders relax.",
+      "Allow your jaw to hang comfortably with the teeth slightly separated.",
+      "Breathe slowly and avoid clenching.",
+      "Maintain the relaxed position for several breaths."
+    ]
+  },
+  {
+    "id": "ex_109",
+    "name": "Gentle Jaw Opening",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Gentle+Jaw+Opening+Animation",
+    "description": "A gentle mandibular mobility exercise. It is not a proven method for reshaping the jawline.",
+    "instructions": [
+      "Sit upright with your jaw relaxed.",
+      "Slowly open your mouth within a comfortable range.",
+      "Pause briefly without forcing the opening.",
+      "Close your mouth gently."
+    ]
+  },
+  {
+    "id": "ex_110",
+    "name": "Controlled Jaw Lateral Movement",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Controlled+Jaw+Lateral+Movement+Animation",
+    "description": "A gentle mandibular mobility drill involving side-to-side jaw movement.",
+    "instructions": [
+      "Keep your head still and shoulders relaxed.",
+      "Move your lower jaw slightly toward one side.",
+      "Return to the center.",
+      "Repeat toward the other side without forcing the range."
+    ]
+  },
+  {
+    "id": "ex_111",
+    "name": "Controlled Jaw Protraction",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Controlled+Jaw+Protraction+Animation",
+    "description": "A gentle mandibular movement that trains controlled jaw positioning rather than attempting to change bone structure.",
+    "instructions": [
+      "Start with your jaw in a relaxed neutral position.",
+      "Move the lower jaw slightly forward.",
+      "Hold briefly without clenching.",
+      "Return to neutral."
+    ]
+  },
+  {
+    "id": "ex_112",
+    "name": "Jaw Isometric Opening",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Isometric+Opening+Animation",
+    "description": "A very gentle isometric jaw exercise. Excessive resistance or pain should be avoided because the jaw joint can be irritated by overloading.",
+    "instructions": [
+      "Place a clean fingertip or hand lightly beneath your chin.",
+      "Attempt to open your mouth gently while providing only minimal resistance.",
+      "Hold briefly without pain or tooth clenching.",
+      "Relax completely."
+    ]
+  },
+  {
+    "id": "ex_113",
+    "name": "Jaw Isometric Closing",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Isometric+Closing+Animation",
+    "description": "A light isometric exercise involving the jaw-closing muscles. It should be performed without forceful clenching.",
+    "instructions": [
+      "Keep your jaw in a neutral position.",
+      "Place two fingers lightly against the underside of the chin.",
+      "Gently attempt to close the jaw against minimal resistance.",
+      "Relax immediately after the brief contraction."
+    ]
+  },
+  {
+    "id": "ex_114",
+    "name": "Masseter Relaxation",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Masseter+Relaxation+Animation",
+    "description": "A relaxation drill for the masseter muscles. Relaxation is generally more appropriate than aggressive jaw loading for people prone to jaw tension.",
+    "instructions": [
+      "Place your fingertips gently over the cheek area where the masseter can be felt.",
+      "Keep your teeth slightly separated.",
+      "Breathe slowly while consciously relaxing the muscle.",
+      "Avoid forceful massage or pressing on painful areas."
+    ]
+  },
+  {
+    "id": "ex_115",
+    "name": "Gentle Masseter Isometric",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Gentle+Masseter+Isometric+Animation",
+    "description": "A low-intensity isometric contraction of the jaw-closing muscles. There is no established need to train masseter size for a healthy jaw.",
+    "instructions": [
+      "Keep your head and neck neutral.",
+      "Bring your teeth together only very lightly.",
+      "Hold the contraction briefly.",
+      "Release completely and keep the jaw relaxed."
+    ]
+  },
+  {
+    "id": "ex_116",
+    "name": "Tongue-to-Palate Jaw Relaxation",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Tongue-to-Palate+Jaw+Relaxation+Animation",
+    "description": "A relaxed oral-posture drill that avoids forceful jaw clenching and is not a guaranteed jawline-shaping method.",
+    "instructions": [
+      "Place the tongue gently against the roof of the mouth.",
+      "Keep the teeth separated or only lightly touching without clenching.",
+      "Relax the jaw muscles.",
+      "Breathe normally."
+    ]
+  },
+  {
+    "id": "ex_117",
+    "name": "Chin Tuck with Jaw Relaxation",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Chin+Tuck+with+Jaw+Relaxation+Animation",
+    "description": "A posture-oriented movement combining gentle cervical retraction with relaxed jaw positioning.",
+    "instructions": [
+      "Sit or stand tall.",
+      "Gently draw your chin backward without looking downward.",
+      "Keep your teeth relaxed and avoid jaw clenching.",
+      "Return to neutral."
+    ]
+  },
+  {
+    "id": "ex_118",
+    "name": "Slow Controlled Chewing Motion",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Slow+Controlled+Chewing+Motion+Animation",
+    "description": "A gentle jaw-movement drill that mimics chewing without requiring hard or prolonged resistance. It is not intended to enlarge the masseters.",
+    "instructions": [
+      "Keep your posture upright and jaw relaxed.",
+      "Perform small, slow chewing-like movements.",
+      "Avoid hard clenching or excessive repetition.",
+      "Stop if the jaw becomes painful, clicks painfully, or feels fatigued."
+    ]
+  },
+  {
+    "id": "ex_119",
+    "name": "Jaw Opening with Tongue Rest",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Opening+with+Tongue+Rest+Animation",
+    "description": "A gentle jaw-mobility exercise emphasizing controlled opening while keeping the tongue and jaw relaxed.",
+    "instructions": [
+      "Rest your tongue comfortably against the roof of your mouth.",
+      "Slowly open your jaw within a pain-free range.",
+      "Pause briefly.",
+      "Close gently and return to a relaxed position."
+    ]
+  },
+  {
+    "id": "ex_120",
+    "name": "Jaw Mobility Sequence",
+    "category": "Jaw",
+    "targetGender": "All",
+    "difficulty": "Beginner",
+    "isHomeWorkout": true,
+    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Mobility+Sequence+Animation",
+    "description": "A gentle sequence combining opening, closing, and small lateral jaw movements. It is intended for mobility and control rather than facial reshaping.",
+    "instructions": [
+      "Begin with the jaw relaxed.",
+      "Open and close the mouth slowly within a comfortable range.",
+      "Perform small controlled side-to-side movements.",
+      "Finish with the jaw relaxed and teeth unclenched."
+    ]
+  }
+]
