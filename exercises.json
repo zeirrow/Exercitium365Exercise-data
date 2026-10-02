@@ -24,7 +24,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/hammer_curls.gif",
     "description": "A curl variation using a neutral grip that trains the biceps and brachialis.",
     "instructions": [
       "Stand with a dumbbell in each hand and palms facing each other.",
@@ -41,7 +41,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/concentration_curl.gif",
     "description": "A supported single-arm curl that limits body movement and emphasizes the biceps.",
     "instructions": [
       "Sit with your legs apart and hold a dumbbell in one hand.",
@@ -58,7 +58,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/incline_dumbbell_curls.gif",
     "description": "A biceps curl performed on an incline bench with the arms positioned behind the torso.",
     "instructions": [
       "Set an adjustable bench to a moderate incline.",
@@ -75,7 +75,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-      "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=EZ-Bar+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/ez_bar_curl.gif",
     "description": "A barbell curl variation using an angled grip to train the elbow flexors.",
     "instructions": [
       "Stand holding an EZ-bar with a comfortable underhand grip.",
@@ -92,7 +92,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/cable_bicep_curl.gif",
     "description": "A cable-based curl that provides relatively consistent resistance through the movement.",
     "instructions": [
       "Attach a straight or suitable handle to a low cable.",
@@ -109,7 +109,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/triceps_pushdown.gif",
     "description": "A cable exercise that primarily trains elbow extension through the triceps.",
     "instructions": [
       "Stand facing a high cable attachment.",
@@ -126,7 +126,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/overhead_triceps_extension.gif",
     "description": "An overhead elbow-extension exercise that trains the triceps through a long range of motion.",
     "instructions": [
       "Hold one dumbbell with both hands above your head.",
@@ -143,7 +143,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Close-Grip+Push-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/close_grip_push_up.gif",
     "description": "A push-up variation that increases the contribution of the triceps while also training the chest and shoulders.",
     "instructions": [
       "Start in a plank with your hands somewhat narrower than shoulder width.",
@@ -160,7 +160,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bench+Dip+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/bench_dip.gif",
     "description": "A bodyweight elbow-extension exercise emphasizing the triceps.",
     "instructions": [
       "Place your hands on the edge of a stable bench behind you.",
@@ -177,7 +177,7 @@
     "targetGender": "All",
     "difficulty": "Advanced",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Diamond+Push-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/diamond_push_up.gif",
     "description": "A narrow-hand push-up that places substantial demand on the triceps.",
     "instructions": [
       "Start in a plank with your hands close together beneath your chest.",
@@ -194,7 +194,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Assisted+Triceps+Dip+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/assisted_triceps_dip.gif",
     "description": "A machine-assisted dip that allows the user to train the triceps with reduced bodyweight loading.",
     "instructions": [
       "Set the assisted dip machine to an appropriate assistance level.",
@@ -211,7 +211,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Seated+Dumbbell+Shoulder+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/seated_dumbbell_shoulder_press.gif",
     "description": "A vertical pressing movement that trains the deltoids and triceps.",
     "instructions": [
       "Sit upright with a dumbbell in each hand at shoulder height.",
@@ -228,7 +228,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Standing+Barbell+Overhead+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/standing_barbell_overhead_press.gif",
     "description": "A compound vertical press targeting the shoulders, triceps, and trunk stabilizers.",
     "instructions": [
       "Hold the bar at upper-chest level with a comfortable overhand grip.",
@@ -245,7 +245,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Lateral+Raise+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dumbbell_lateral_raise.gif",
     "description": "An isolation movement emphasizing the middle deltoid.",
     "instructions": [
       "Stand with light dumbbells at your sides.",
@@ -262,7 +262,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Lateral+Raise+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/cable_lateral_raise.gif",
     "description": "A unilateral cable exercise emphasizing the middle deltoid.",
     "instructions": [
       "Set a cable pulley near the bottom position.",
@@ -279,7 +279,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Front+Dumbbell+Raise+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/front_dumbbell_raise.gif",
     "description": "A shoulder-raising movement emphasizing the anterior deltoid.",
     "instructions": [
       "Hold dumbbells in front of your thighs.",
@@ -296,7 +296,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Dumbbell+Fly+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/reverse_dumbbell_fly.gif",
     "description": "A rear-shoulder movement emphasizing the posterior deltoids and upper-back musculature.",
     "instructions": [
       "Hinge forward with a neutral spine while holding dumbbells.",
@@ -313,7 +313,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Face+Pull+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/face_pull.gif",
     "description": "A cable pulling exercise that trains the rear deltoids and upper-back muscles.",
     "instructions": [
       "Attach a rope to a cable at approximately upper-face height.",
@@ -330,7 +330,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Arnold+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/arnold_press.gif",
     "description": "A dumbbell shoulder press incorporating rotation during the pressing movement.",
     "instructions": [
       "Start seated with dumbbells in front of your shoulders and palms facing you.",
@@ -347,7 +347,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Landmine+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/landmine_press.gif",
     "description": "An angled pressing movement that trains the shoulders, triceps, and upper chest.",
     "instructions": [
       "Hold the end of a secured barbell near shoulder height.",
@@ -364,7 +364,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Y-Raise+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/cable_y_raise.gif",
     "description": "A light-resistance shoulder movement emphasizing upward-rotating shoulder musculature.",
     "instructions": [
       "Use two low cable handles or suitable cable attachments.",
@@ -381,7 +381,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Scaption+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dumbbell_scaption.gif",
     "description": "A shoulder elevation movement performed in the scapular plane.",
     "instructions": [
       "Hold light dumbbells with your palms facing inward.",
@@ -398,7 +398,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Machine+Shoulder+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/machine_shoulder_press.gif",
     "description": "A machine-based vertical press that trains the deltoids and triceps.",
     "instructions": [
       "Adjust the seat so the handles begin around shoulder level.",
@@ -415,7 +415,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Push-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/push_up.gif",
     "description": "A foundational bodyweight pressing exercise emphasizing the chest, triceps, and anterior shoulders.",
     "instructions": [
       "Start in a plank position with your hands approximately shoulder-width apart.",
@@ -432,7 +432,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Incline+Push-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/incline_push_up.gif",
     "description": "A modified push-up using an elevated surface to reduce loading while training the chest.",
     "instructions": [
       "Place your hands on a stable elevated surface.",
@@ -449,7 +449,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Decline+Push-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/decline_push_up.gif",
     "description": "A push-up with elevated feet that increases the relative loading of the upper body.",
     "instructions": [
       "Place your feet on a stable elevated surface.",
@@ -466,7 +466,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Bench+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dumbbell_bench_press.gif",
     "description": "A horizontal pressing movement emphasizing the pectoral muscles.",
     "instructions": [
       "Lie on a flat bench holding dumbbells near your chest.",
@@ -483,7 +483,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Barbell+Bench+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/barbell_bench_press.gif",
     "description": "A compound horizontal press that strongly trains the pectorals and also involves the triceps and shoulders.",
     "instructions": [
       "Lie on a bench with the bar positioned above your chest.",
@@ -500,7 +500,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Incline+Dumbbell+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/incline_dumbbell_press.gif",
     "description": "An incline pressing movement emphasizing the clavicular portion of the pectoralis major.",
     "instructions": [
       "Set a bench to a moderate incline.",
@@ -517,7 +517,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Chest+Fly+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/cable_chest_fly.gif",
     "description": "A cable fly that trains horizontal shoulder adduction with emphasis on the chest.",
     "instructions": [
       "Set two cable handles around chest height.",
@@ -534,7 +534,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Chest+Fly+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dumbbell_chest_fly.gif",
     "description": "A fly movement emphasizing the pectoral muscles through horizontal shoulder adduction.",
     "instructions": [
       "Lie on a flat bench with dumbbells held above your chest.",
@@ -551,7 +551,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Chest+Press+Machine+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/chest_press_machine.gif",
     "description": "A machine-based horizontal press that trains the chest and triceps.",
     "instructions": [
       "Adjust the seat so the handles align approximately with mid-chest.",
@@ -568,7 +568,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Low-Incline+Push-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/low_incline_push_up.gif",
     "description": "A slightly elevated push-up variation suitable for building pressing strength.",
     "instructions": [
       "Place your hands on a low stable platform.",
@@ -585,7 +585,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Pec+Deck+Fly+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/pec_deck_fly.gif",
     "description": "A machine fly that emphasizes the pectoral muscles.",
     "instructions": [
       "Adjust the machine so your elbows or hands align comfortably with your chest.",
@@ -602,7 +602,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Kneeling+Push-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/kneeling_push_up.gif",
     "description": "A modified push-up that reduces the amount of bodyweight supported by the upper body.",
     "instructions": [
       "Place your hands beneath your shoulders and knees on the floor.",
@@ -619,7 +619,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Barbell+Hip+Thrust+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/barbell Hip thrust.gif",
     "description": "A hip-extension exercise strongly emphasizing the gluteus maximus. The movement is suitable for all genders; programming can be individualized by training goal rather than sex.",
     "instructions": [
       "Position your upper back against a stable bench and place a padded barbell across your hips.",
@@ -636,7 +636,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Glute+Bridge+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/glute_bridge.gif",
     "description": "A bodyweight hip-extension exercise that trains the gluteus maximus.",
     "instructions": [
       "Lie on your back with your knees bent and feet planted.",
@@ -653,7 +653,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Single-Leg+Glute+Bridge+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/single_leg_glute_bridge.gif",
     "description": "A unilateral bridge variation that challenges hip extension and pelvic control.",
     "instructions": [
       "Lie on your back with one foot planted and the other leg extended.",
@@ -670,7 +670,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bulgarian+Split+Squat+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/bulgarian_split_squat.gif",
     "description": "A unilateral squat variation that trains the glutes and quadriceps while challenging balance.",
     "instructions": [
       "Place the top of one foot on a stable bench behind you.",
@@ -687,7 +687,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Romanian+Deadlift+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/romanian_deadlift.gif",
     "description": "A hip-hinge movement emphasizing the glutes and hamstrings.",
     "instructions": [
       "Hold a barbell or dumbbells in front of your thighs.",
@@ -704,7 +704,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Glute+Kickback+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/cable_glute_kickback.gif",
     "description": "A hip-extension exercise emphasizing the gluteus maximus.",
     "instructions": [
       "Attach an ankle strap to a low cable.",
@@ -721,7 +721,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Quadruped+Hip+Extension+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/quadruped Hip extension.gif",
     "description": "A bodyweight hip-extension movement emphasizing the gluteus maximus.",
     "instructions": [
       "Start on your hands and knees.",
@@ -738,7 +738,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Side-Lying+Hip+Abduction+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/side_laying Hip abduction.gif",
     "description": "A hip-abduction exercise emphasizing the gluteus medius and other lateral hip muscles.",
     "instructions": [
       "Lie on your side with your legs extended.",
@@ -755,7 +755,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Banded+Lateral+Walk+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/banded_lateral_walk.gif",
     "description": "A resisted lateral movement that trains the hip abductors, including the gluteus medius.",
     "instructions": [
       "Place a resistance band around your thighs or lower legs as appropriate.",
@@ -772,7 +772,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Step-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/step_up.gif",
     "description": "A unilateral step exercise that trains the glutes and quadriceps.",
     "instructions": [
       "Stand facing a stable step or platform.",
@@ -789,7 +789,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Lunge+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/reverse_lunge.gif",
     "description": "A unilateral leg exercise involving the glutes, quadriceps, and hamstrings.",
     "instructions": [
       "Stand tall with your feet comfortable apart.",
@@ -806,7 +806,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Frog+Pump+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/frog_pump.gif",
     "description": "A bodyweight hip-extension variation that emphasizes the gluteal muscles.",
     "instructions": [
       "Lie on your back and bring the soles of your feet together.",
@@ -823,7 +823,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bodyweight+Squat+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/bodyweight_squat.gif",
     "description": "A fundamental lower-body movement training the quadriceps, glutes, and hamstrings.",
     "instructions": [
       "Stand with your feet at a comfortable width.",
@@ -840,7 +840,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Goblet+Squat+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/goblet_squat.gif",
     "description": "A squat variation using a dumbbell or kettlebell held near the chest.",
     "instructions": [
       "Hold a dumbbell or kettlebell close to your chest.",
@@ -857,7 +857,7 @@
     "targetGender": "All",
     "difficulty": "Advanced",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Barbell+Back+Squat+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/barbell_back_squat.gif",
     "description": "A loaded squat that trains the quadriceps, glutes, and other lower-body muscles.",
     "instructions": [
       "Position a properly loaded barbell securely across your upper back.",
@@ -874,7 +874,7 @@
     "targetGender": "All",
     "difficulty": "Advanced",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Front+Squat+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/front_squat.gif",
     "description": "A barbell squat variation that places the load in front of the body and strongly challenges the quadriceps and trunk.",
     "instructions": [
       "Position the bar securely across the front of your shoulders.",
@@ -891,7 +891,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Leg+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/leg_press.gif",
     "description": "A machine-based compound exercise training the quadriceps, glutes, and hamstrings.",
     "instructions": [
       "Position your feet securely on the platform.",
@@ -908,7 +908,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Leg+Extension+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/leg_extension.gif",
     "description": "An isolation exercise emphasizing the quadriceps.",
     "instructions": [
       "Adjust the machine so the knee joint aligns appropriately with its pivot.",
@@ -925,7 +925,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Lying+Leg+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/lying_leg_curl.gif",
     "description": "An isolation movement emphasizing the hamstrings.",
     "instructions": [
       "Lie face down on the machine and position your ankles beneath the pads.",
@@ -942,7 +942,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Seated+Leg+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/seated_leg_curl.gif",
     "description": "A seated machine exercise emphasizing the hamstrings.",
     "instructions": [
       "Adjust the seat and thigh pad securely.",
@@ -959,7 +959,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Standing+Calf+Raise+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/standing_calf_raise.gif",
     "description": "A calf exercise emphasizing the gastrocnemius and soleus through plantarflexion.",
     "instructions": [
       "Stand with the balls of your feet supported and your heels free.",
@@ -976,7 +976,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Seated+Calf+Raise+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/seated_calf_raise.gif",
     "description": "A seated plantarflexion exercise that emphasizes the soleus.",
     "instructions": [
       "Sit with the balls of your feet supported and your knees bent.",
@@ -993,7 +993,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Walking+Lunge+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/walking_lunge.gif",
     "description": "A dynamic unilateral lower-body exercise training the quadriceps, glutes, and hamstrings.",
     "instructions": [
       "Stand tall and step forward with one leg.",
@@ -1010,7 +1010,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Romanian+Deadlift+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/romanian_deadlift.gif",
     "description": "A hip-hinge exercise primarily training the hamstrings and glutes.",
     "instructions": [
       "Hold the weights in front of your thighs.",
@@ -1027,7 +1027,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dead+Bug+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dead_bug.gif",
     "description": "A core-stability exercise emphasizing trunk control while the limbs move.",
     "instructions": [
       "Lie on your back with your hips and knees bent.",
@@ -1044,7 +1044,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bird+Dog+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/bird_dog.gif",
     "description": "A quadruped stability exercise training the trunk and hip musculature.",
     "instructions": [
       "Start on your hands and knees.",
@@ -1061,7 +1061,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Plank+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/plank.gif",
     "description": "An isometric trunk exercise that trains the abdominal and spinal stabilizing muscles.",
     "instructions": [
       "Support yourself on your forearms and toes.",
@@ -1078,7 +1078,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Side+Plank+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/side_plank.gif",
     "description": "An isometric exercise emphasizing the lateral trunk muscles and obliques.",
     "instructions": [
       "Lie on your side and support your body on one forearm.",
@@ -1095,7 +1095,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Crunch+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/reverse_crunch.gif",
     "description": "A trunk-flexion exercise that emphasizes the abdominal musculature.",
     "instructions": [
       "Lie on your back with your knees bent.",
@@ -1112,7 +1112,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Bicycle+Crunch+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/bicycle_crunch.gif",
     "description": "A dynamic abdominal exercise involving trunk rotation and flexion.",
     "instructions": [
       "Lie on your back with your hands lightly supporting your head.",
@@ -1129,7 +1129,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Mountain+Climber+Animation",
+      "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Mountain+Climber+Animation",
     "description": "A dynamic plank exercise that challenges the abdominal muscles while also involving the hips and shoulders.",
     "instructions": [
       "Start in a stable high-plank position.",
@@ -1146,7 +1146,7 @@
     "targetGender": "All",
     "difficulty": "Advanced",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Hollow+Body+Hold+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/hollow_body_hold.gif",
     "description": "An advanced isometric trunk exercise requiring strong abdominal bracing.",
     "instructions": [
       "Lie on your back and brace your abdomen.",
@@ -1163,7 +1163,7 @@
     "targetGender": "All",
     "difficulty": "Advanced",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Ab+Wheel+Rollout+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/ab_wheel_rollout.gif",
     "description": "A demanding anti-extension core exercise requiring strong trunk control.",
     "instructions": [
       "Kneel with the ab wheel under your shoulders.",
@@ -1180,7 +1180,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Pallof+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/pallof_press.gif",
     "description": "An anti-rotation exercise that trains the trunk's ability to resist rotational forces.",
     "instructions": [
       "Stand sideways to a cable or resistance band anchor.",
@@ -1197,7 +1197,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Forearm+Plank+Knee+Tap+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/forearm_plank_knee_tap.gif",
     "description": "A plank variation that challenges abdominal bracing and pelvic control.",
     "instructions": [
       "Start in a forearm plank.",
@@ -1214,7 +1214,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Suitcase+Carry+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/suitcase_carry.gif",
     "description": "A loaded carry that challenges lateral trunk stability and grip.",
     "instructions": [
       "Hold one weight at your side.",
@@ -1231,7 +1231,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Wrist+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/wrist_curl.gif",
     "description": "A wrist-flexion exercise emphasizing the forearm flexor muscles.",
     "instructions": [
       "Sit and rest your forearms on your thighs or a bench.",
@@ -1248,7 +1248,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Wrist+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/reverse_wrist_curl.gif",
     "description": "A wrist-extension exercise emphasizing the forearm extensor muscles.",
     "instructions": [
       "Rest your forearms securely on your thighs or a bench.",
@@ -1265,7 +1265,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Farmer's+Carry+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/farmers_carry.gif",
     "description": "A loaded carry that strongly challenges grip and forearm endurance.",
     "instructions": [
       "Hold a weight in each hand.",
@@ -1282,7 +1282,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Plate+Pinch+Hold+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/plate_pinch_hold.gif",
     "description": "A grip exercise emphasizing the thumb and finger muscles of the hand and forearm.",
     "instructions": [
       "Hold a suitable weight plate between your thumb and fingers.",
@@ -1299,7 +1299,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dead+Hang+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dead_hang.gif",
     "description": "An isometric hanging exercise that challenges grip and forearm endurance.",
     "instructions": [
       "Grip a secure pull-up bar.",
@@ -1316,7 +1316,7 @@
     "targetGender": "All",
     "difficulty": "Advanced",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Towel+Hang+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/towel_hang.gif",
     "description": "A hanging grip variation that challenges the hands and forearms.",
     "instructions": [
       "Secure a strong towel over a suitable pull-up bar.",
@@ -1333,7 +1333,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Wrist+Roller+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/wrist_roller.gif",
     "description": "A forearm endurance exercise involving repeated wrist flexion and extension.",
     "instructions": [
       "Hold the wrist-roller handle at approximately chest height.",
@@ -1350,7 +1350,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Hammer+Curl+Hold+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/hammer_curl_hold.gif",
     "description": "An isometric neutral-grip hold that challenges the forearm and elbow-flexor musculature.",
     "instructions": [
       "Hold dumbbells with your palms facing each other.",
@@ -1367,7 +1367,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Reverse+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/reverse_curl.gif",
     "description": "A pronated curl that trains the brachioradialis and forearm extensor musculature.",
     "instructions": [
       "Hold a barbell or EZ-bar with an overhand grip.",
@@ -1384,7 +1384,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Wrist+Flexion+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/cable_wrist_flexion.gif",
     "description": "A cable-based wrist-flexion movement for the forearm flexors.",
     "instructions": [
       "Attach a low cable to a suitable handle.",
@@ -1401,7 +1401,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Wrist+Extension+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/cable_wrist_extension.gif",
     "description": "A cable-based wrist-extension movement for the forearm extensors.",
     "instructions": [
       "Secure a low cable attachment and position your forearm.",
@@ -1418,7 +1418,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Rice+Bucket+Hand+Drill+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/rice_bucket_hand_drill.gif",
     "description": "A low-load grip and hand-conditioning drill using resistance from dry rice.",
     "instructions": [
       "Place your hands into a clean container of dry rice.",
@@ -1435,7 +1435,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Lat+Pulldown+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/lat_pulldown.gif",
     "description": "A vertical pulling exercise emphasizing the latissimus dorsi and upper-back musculature.",
     "instructions": [
       "Sit at the pulldown station and secure your thighs under the pads.",
@@ -1452,7 +1452,7 @@
     "targetGender": "All",
     "difficulty": "Advanced",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Pull-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/pull_up.gif",
     "description": "A bodyweight vertical pull that strongly trains the latissimus dorsi and elbow flexors.",
     "instructions": [
       "Grip a secure pull-up bar with an overhand grip.",
@@ -1469,7 +1469,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Assisted+Pull-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/assisted_pull_up.gif",
     "description": "A machine-assisted vertical pull that allows progressive practice of the pull-up pattern.",
     "instructions": [
       "Set the machine to an appropriate assistance level.",
@@ -1486,7 +1486,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Seated+Cable+Row+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/seated_cable_row.gif",
     "description": "A horizontal pulling movement training the middle back, latissimus dorsi, and elbow flexors.",
     "instructions": [
       "Sit with your feet supported and hold the cable handle.",
@@ -1503,7 +1503,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=One-Arm+Dumbbell+Row+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/one_arm_dumbbell_row.gif",
     "description": "A unilateral rowing movement emphasizing the latissimus dorsi and upper back.",
     "instructions": [
       "Support one hand and knee on a stable bench.",
@@ -1520,7 +1520,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Chest-Supported+Dumbbell+Row+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/chest_supported_dumbbell_row.gif",
     "description": "A supported row that trains the upper and middle back while reducing the need for trunk stabilization.",
     "instructions": [
       "Lie chest-down on an incline bench with dumbbells in your hands.",
@@ -1537,7 +1537,7 @@
     "targetGender": "All",
     "difficulty": "Advanced",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Barbell+Bent-Over+Row+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/barbell_bent_over_row.gif",
     "description": "A compound horizontal pulling movement training the lats, rhomboids, trapezius, and other back muscles.",
     "instructions": [
       "Hold the barbell and hinge forward with a neutral spine.",
@@ -1554,7 +1554,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Inverted+Row+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/inverted_row.gif",
     "description": "A bodyweight horizontal pulling exercise that trains the upper back and elbow flexors.",
     "instructions": [
       "Set a secure horizontal bar at an appropriate height.",
@@ -1571,7 +1571,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Straight-Arm+Pulldown+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/straight_arm_pulldown.gif",
     "description": "A cable exercise emphasizing shoulder extension and the latissimus dorsi.",
     "instructions": [
       "Attach a straight bar or rope to a high cable.",
@@ -1588,7 +1588,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Back+Extension+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/back_extension.gif",
     "description": "A hip-extension movement involving the spinal erectors, glutes, and hamstrings.",
     "instructions": [
       "Position yourself securely on a back-extension bench.",
@@ -1605,7 +1605,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Pullover+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dumbbell_pullover.gif",
     "description": "A shoulder-extension movement involving the latissimus dorsi and chest.",
     "instructions": [
       "Lie across or along a stable bench while holding one dumbbell above your chest.",
@@ -1622,7 +1622,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Scapular+Pull-Up+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/scapular_pull_up.gif",
     "description": "A controlled hanging exercise focusing on scapular movement and upper-back musculature.",
     "instructions": [
       "Hang from a secure pull-up bar.",
@@ -1639,7 +1639,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Chin+Tuck+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/chin_tuck.gif",
     "description": "A gentle neck exercise that trains cervical positioning. It is not a proven method for selectively removing facial fat or changing facial structure.",
     "instructions": [
       "Sit or stand tall with your head facing forward.",
@@ -1656,7 +1656,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Neck+Rotation+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/neck_rotation.gif",
     "description": "A gentle cervical mobility exercise. It supports neck movement rather than directly reshaping facial features.",
     "instructions": [
       "Sit or stand upright.",
@@ -1673,7 +1673,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Neck+Side+Bend+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/neck_side_bend.gif",
     "description": "A gentle neck mobility exercise for the muscles along the sides of the neck.",
     "instructions": [
       "Sit or stand tall.",
@@ -1690,7 +1690,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Neck+Flexion+and+Extension+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/neck_flexion_extension.gif",
     "description": "A gentle cervical mobility sequence. It should be performed within a comfortable range rather than forced.",
     "instructions": [
       "Sit or stand with your spine upright.",
@@ -1707,7 +1707,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Lip+Press+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/lip_press.gif",
     "description": "A gentle facial-muscle exercise involving controlled lip compression. It should not be presented as a proven facial-sculpting method.",
     "instructions": [
       "Sit comfortably with your jaw relaxed.",
@@ -1724,7 +1724,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cheek+Puff+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/cheek_puff.gif",
     "description": "A gentle facial-muscle coordination exercise involving the cheeks.",
     "instructions": [
       "Relax your jaw and lips.",
@@ -1741,7 +1741,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Alternating+Cheek+Puff+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/alternating_cheek_puff.gif",
     "description": "A facial coordination drill involving controlled movement of air between the cheeks.",
     "instructions": [
       "Fill your mouth gently with air.",
@@ -1758,7 +1758,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Gentle+Smile+Hold+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/gentle_smile_hold.gif",
     "description": "A controlled facial-expression exercise involving the muscles around the mouth and cheeks.",
     "instructions": [
       "Relax your jaw and forehead.",
@@ -1775,7 +1775,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Eyebrow+Raise+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/eyebrow_raise.gif",
     "description": "A facial-expression movement involving the muscles that elevate the eyebrows.",
     "instructions": [
       "Relax your face.",
@@ -1792,7 +1792,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Gentle+Eye+Squeeze+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/gentle_eye_squeeze.gif",
     "description": "A light facial-muscle coordination exercise around the eyes. It is not intended to change eye shape.",
     "instructions": [
       "Relax your forehead and jaw.",
@@ -1809,7 +1809,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Tongue-to-Palate+Rest+Position+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/tongue_to_palate_rest_position.gif",
     "description": "A gentle oral-posture practice emphasizing relaxed tongue placement and nasal breathing when comfortable. It should not be marketed as a guaranteed facial-reshaping technique.",
     "instructions": [
       "Rest the tongue gently against the palate without force.",
@@ -1826,7 +1826,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Relaxation+Drill+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/jaw_relaxation_drill.gif",
     "description": "A relaxation exercise intended to reduce unnecessary jaw tension rather than increase jaw muscle size.",
     "instructions": [
       "Sit upright and let your shoulders relax.",
@@ -1843,7 +1843,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Gentle+Jaw+Opening+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/gentle_jaw_opening.gif",
     "description": "A gentle mandibular mobility exercise. It is not a proven method for reshaping the jawline.",
     "instructions": [
       "Sit upright with your jaw relaxed.",
@@ -1860,7 +1860,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Controlled+Jaw+Lateral+Movement+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/controlled_jaw_lateral_movement.gif",
     "description": "A gentle mandibular mobility drill involving side-to-side jaw movement.",
     "instructions": [
       "Keep your head still and shoulders relaxed.",
@@ -1877,7 +1877,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Controlled+Jaw+Protraction+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/controlled_jaw_protraction.gif",
     "description": "A gentle mandibular movement that trains controlled jaw positioning rather than attempting to change bone structure.",
     "instructions": [
       "Start with your jaw in a relaxed neutral position.",
@@ -1894,7 +1894,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Isometric+Opening+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/jaw_isometric_opening.gif",
     "description": "A very gentle isometric jaw exercise. Excessive resistance or pain should be avoided because the jaw joint can be irritated by overloading.",
     "instructions": [
       "Place a clean fingertip or hand lightly beneath your chin.",
@@ -1911,7 +1911,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Isometric+Closing+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/jaw_isometric_closing.gif",
     "description": "A light isometric exercise involving the jaw-closing muscles. It should be performed without forceful clenching.",
     "instructions": [
       "Keep your jaw in a neutral position.",
@@ -1928,7 +1928,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Masseter+Relaxation+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/masseter_relaxation.gif",
     "description": "A relaxation drill for the masseter muscles. Relaxation is generally more appropriate than aggressive jaw loading for people prone to jaw tension.",
     "instructions": [
       "Place your fingertips gently over the cheek area where the masseter can be felt.",
@@ -1945,7 +1945,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Gentle+Masseter+Isometric+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/gentle_masseter_isometric.gif",
     "description": "A low-intensity isometric contraction of the jaw-closing muscles. There is no established need to train masseter size for a healthy jaw.",
     "instructions": [
       "Keep your head and neck neutral.",
@@ -1962,7 +1962,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Tongue-to-Palate+Jaw+Relaxation+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/tongue_to_palate_jaw_relaxation.gif",
     "description": "A relaxed oral-posture drill that avoids forceful jaw clenching and is not a guaranteed jawline-shaping method.",
     "instructions": [
       "Place the tongue gently against the roof of the mouth.",
@@ -1979,7 +1979,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Chin+Tuck+with+Jaw+Relaxation+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/chin_tuck_with_jaw_relaxation.gif",
     "description": "A posture-oriented movement combining gentle cervical retraction with relaxed jaw positioning.",
     "instructions": [
       "Sit or stand tall.",
@@ -1996,7 +1996,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Slow+Controlled+Chewing+Motion+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/slow_controlled_chewing_motion.gif",
     "description": "A gentle jaw-movement drill that mimics chewing without requiring hard or prolonged resistance. It is not intended to enlarge the masseters.",
     "instructions": [
       "Keep your posture upright and jaw relaxed.",
@@ -2013,7 +2013,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Opening+with+Tongue+Rest+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/jaw_opening_with_tongue_rest.gif",
     "description": "A gentle jaw-mobility exercise emphasizing controlled opening while keeping the tongue and jaw relaxed.",
     "instructions": [
       "Rest your tongue comfortably against the roof of your mouth.",
@@ -2030,7 +2030,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Jaw+Mobility+Sequence+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/jaw_mobility_sequence.gif",
     "description": "A gentle sequence combining opening, closing, and small lateral jaw movements. It is intended for mobility and control rather than facial reshaping.",
     "instructions": [
       "Begin with the jaw relaxed.",
