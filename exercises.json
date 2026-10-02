@@ -7,7 +7,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dumbbell_bicep_curls.gif",
     "description": "An isolation exercise emphasizing the elbow flexors, especially the biceps brachii.",
     "instructions": [
       "Stand upright holding a dumbbell in each hand with your palms facing forward.",
