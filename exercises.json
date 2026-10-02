@@ -7,7 +7,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Dumbbell+Biceps+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
     "description": "An isolation exercise emphasizing the elbow flexors, especially the biceps brachii.",
     "instructions": [
       "Stand upright holding a dumbbell in each hand with your palms facing forward.",
@@ -24,7 +24,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Hammer+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
     "description": "A curl variation using a neutral grip that trains the biceps and brachialis.",
     "instructions": [
       "Stand with a dumbbell in each hand and palms facing each other.",
@@ -41,7 +41,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Concentration+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
     "description": "A supported single-arm curl that limits body movement and emphasizes the biceps.",
     "instructions": [
       "Sit with your legs apart and hold a dumbbell in one hand.",
@@ -58,7 +58,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Incline+Dumbbell+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
     "description": "A biceps curl performed on an incline bench with the arms positioned behind the torso.",
     "instructions": [
       "Set an adjustable bench to a moderate incline.",
@@ -75,7 +75,7 @@
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=EZ-Bar+Curl+Animation",
+      "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=EZ-Bar+Curl+Animation",
     "description": "A barbell curl variation using an angled grip to train the elbow flexors.",
     "instructions": [
       "Stand holding an EZ-bar with a comfortable underhand grip.",
@@ -92,7 +92,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Cable+Biceps+Curl+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
     "description": "A cable-based curl that provides relatively consistent resistance through the movement.",
     "instructions": [
       "Attach a straight or suitable handle to a low cable.",
@@ -109,7 +109,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": false,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Triceps+Pushdown+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
     "description": "A cable exercise that primarily trains elbow extension through the triceps.",
     "instructions": [
       "Stand facing a high cable attachment.",
@@ -126,7 +126,7 @@
     "targetGender": "All",
     "difficulty": "Beginner",
     "isHomeWorkout": true,
-    "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Overhead+Triceps+Extension+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/assets/hero_jaw.jpg",
     "description": "An overhead elbow-extension exercise that trains the triceps through a long range of motion.",
     "instructions": [
       "Hold one dumbbell with both hands above your head.",
