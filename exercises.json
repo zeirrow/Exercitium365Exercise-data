@@ -1072,16 +1072,16 @@
   },
   {
     "id": "ex_064",
-    "name": "Side Plank",
+    "name": "Right Side Plank",
     "category": "Abs",
     "duration": "00:45",
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/side_plank.gif",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/right_side_plank.gif",
     "description": "An isometric exercise emphasizing the lateral trunk muscles and obliques.",
     "instructions": [
-      "Lie on your side and support your body on one forearm.",
+      "Lie on your right side and support your body on one forearm.",
       "Stack or stagger your feet for balance.",
       "Lift your hips until your body forms a straight line.",
       "Hold while maintaining controlled breathing."
@@ -1089,6 +1089,23 @@
   },
   {
     "id": "ex_065",
+    "name": "Left Side Plank",
+    "category": "Abs",
+    "duration": "00:45",
+    "targetGender": "All",
+    "difficulty": "Intermediate",
+    "isHomeWorkout": true,
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/left_side_plank.gif",
+    "description": "An isometric exercise emphasizing the lateral trunk muscles and obliques.",
+    "instructions": [
+      "Lie on your left side and support your body on one forearm.",
+      "Stack or stagger your feet for balance.",
+      "Lift your hips until your body forms a straight line.",
+      "Hold while maintaining controlled breathing."
+    ]
+  },
+  {
+    "id": "ex_066",
     "name": "Reverse Crunch",
     "category": "Abs",
     "duration": "00:30",
@@ -1105,7 +1122,7 @@
     ]
   },
   {
-    "id": "ex_066",
+    "id": "ex_067",
     "name": "Bicycle Crunch",
     "category": "Abs",
     "duration": "00:45",
@@ -1122,14 +1139,14 @@
     ]
   },
   {
-    "id": "ex_067",
+    "id": "ex_068",
     "name": "Mountain Climber",
     "category": "Abs",
     "duration": "00:45",
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-      "animationUrl": "https://placehold.co/600x400/222222/FFFFFF/png?text=Mountain+Climber+Animation",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/mountain_climber.gif",
     "description": "A dynamic plank exercise that challenges the abdominal muscles while also involving the hips and shoulders.",
     "instructions": [
       "Start in a stable high-plank position.",
@@ -1139,7 +1156,7 @@
     ]
   },
   {
-    "id": "ex_068",
+    "id": "ex_069",
     "name": "Hollow Body Hold",
     "category": "Abs",
     "duration": "01:00",
@@ -1156,7 +1173,7 @@
     ]
   },
   {
-    "id": "ex_069",
+    "id": "ex_070",
     "name": "Ab Wheel Rollout",
     "category": "Abs",
     "duration": "01:00",
@@ -1173,7 +1190,7 @@
     ]
   },
   {
-    "id": "ex_070",
+    "id": "ex_071",
     "name": "Pallof Press",
     "category": "Abs",
     "duration": "00:45",
@@ -1190,7 +1207,7 @@
     ]
   },
   {
-    "id": "ex_071",
+    "id": "ex_072",
     "name": "Forearm Plank Knee Tap",
     "category": "Abs",
     "duration": "00:45",
@@ -1207,14 +1224,14 @@
     ]
   },
   {
-    "id": "ex_072",
-    "name": "Suitcase Carry",
+    "id": "ex_073",
+    "name": "Dumbbell Suitcase Carry",
     "category": "Abs",
     "duration": "00:45",
     "targetGender": "All",
     "difficulty": "Intermediate",
     "isHomeWorkout": true,
-    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/suitcase_carry.gif",
+    "animationUrl": "https://raw.githubusercontent.com/zeirrow/Exercitium365Exercise-data/main/Workout_Animation/dumbbell-suitcase-carry.gif",
     "description": "A loaded carry that challenges lateral trunk stability and grip.",
     "instructions": [
       "Hold one weight at your side.",
@@ -1224,7 +1241,7 @@
     ]
   },
   {
-    "id": "ex_073",
+    "id": "ex_074",
     "name": "Wrist Curl",
     "category": "Forearms",
     "duration": "00:30",
@@ -1241,7 +1258,7 @@
     ]
   },
   {
-    "id": "ex_074",
+    "id": "ex_075",
     "name": "Reverse Wrist Curl",
     "category": "Forearms",
     "duration": "00:30",
@@ -1258,7 +1275,7 @@
     ]
   },
   {
-    "id": "ex_075",
+    "id": "ex_076",
     "name": "Farmer's Carry",
     "category": "Forearms",
     "duration": "00:45",
@@ -1275,7 +1292,7 @@
     ]
   },
   {
-    "id": "ex_076",
+    "id": "ex_077",
     "name": "Plate Pinch Hold",
     "category": "Forearms",
     "duration": "00:45",
@@ -1292,7 +1309,7 @@
     ]
   },
   {
-    "id": "ex_077",
+    "id": "ex_078",
     "name": "Dead Hang",
     "category": "Forearms",
     "duration": "00:30",
@@ -1309,7 +1326,7 @@
     ]
   },
   {
-    "id": "ex_078",
+    "id": "ex_079",
     "name": "Towel Hang",
     "category": "Forearms",
     "duration": "01:00",
@@ -1326,7 +1343,7 @@
     ]
   },
   {
-    "id": "ex_079",
+    "id": "ex_080",
     "name": "Wrist Roller",
     "category": "Forearms",
     "duration": "00:45",
@@ -1343,7 +1360,7 @@
     ]
   },
   {
-    "id": "ex_080",
+    "id": "ex_081",
     "name": "Hammer Curl Hold",
     "category": "Forearms",
     "duration": "00:45",
@@ -1360,7 +1377,7 @@
     ]
   },
   {
-    "id": "ex_081",
+    "id": "ex_082",
     "name": "Reverse Curl",
     "category": "Forearms",
     "duration": "00:45",
@@ -1377,7 +1394,7 @@
     ]
   },
   {
-    "id": "ex_082",
+    "id": "ex_083",
     "name": "Cable Wrist Flexion",
     "category": "Forearms",
     "duration": "00:45",
@@ -1394,7 +1411,7 @@
     ]
   },
   {
-    "id": "ex_083",
+    "id": "ex_084",
     "name": "Cable Wrist Extension",
     "category": "Forearms",
     "duration": "00:45",
@@ -1411,7 +1428,7 @@
     ]
   },
   {
-    "id": "ex_084",
+    "id": "ex_085",
     "name": "Rice Bucket Hand Drill",
     "category": "Forearms",
     "duration": "00:30",
@@ -1428,7 +1445,7 @@
     ]
   },
   {
-    "id": "ex_085",
+    "id": "ex_086",
     "name": "Lat Pulldown",
     "category": "Back",
     "duration": "00:30",
@@ -1445,7 +1462,7 @@
     ]
   },
   {
-    "id": "ex_086",
+    "id": "ex_087",
     "name": "Pull-Up",
     "category": "Back",
     "duration": "01:00",
@@ -1462,7 +1479,7 @@
     ]
   },
   {
-    "id": "ex_087",
+    "id": "ex_088",
     "name": "Assisted Pull-Up",
     "category": "Back",
     "duration": "00:45",
@@ -1479,7 +1496,7 @@
     ]
   },
   {
-    "id": "ex_088",
+    "id": "ex_089",
     "name": "Seated Cable Row",
     "category": "Back",
     "duration": "00:30",
@@ -1496,7 +1513,7 @@
     ]
   },
   {
-    "id": "ex_089",
+    "id": "ex_090",
     "name": "One-Arm Dumbbell Row",
     "category": "Back",
     "duration": "00:30",
@@ -1513,7 +1530,7 @@
     ]
   },
   {
-    "id": "ex_090",
+    "id": "ex_091",
     "name": "Chest-Supported Dumbbell Row",
     "category": "Back",
     "duration": "00:45",
@@ -1530,7 +1547,7 @@
     ]
   },
   {
-    "id": "ex_091",
+    "id": "ex_092",
     "name": "Barbell Bent-Over Row",
     "category": "Back",
     "duration": "01:00",
@@ -1547,7 +1564,7 @@
     ]
   },
   {
-    "id": "ex_092",
+    "id": "ex_093",
     "name": "Inverted Row",
     "category": "Back",
     "duration": "00:30",
@@ -1564,7 +1581,7 @@
     ]
   },
   {
-    "id": "ex_093",
+    "id": "ex_094",
     "name": "Straight-Arm Pulldown",
     "category": "Back",
     "duration": "00:30",
@@ -1581,7 +1598,7 @@
     ]
   },
   {
-    "id": "ex_094",
+    "id": "ex_095",
     "name": "Back Extension",
     "category": "Back",
     "duration": "00:30",
@@ -1598,7 +1615,7 @@
     ]
   },
   {
-    "id": "ex_095",
+    "id": "ex_096",
     "name": "Dumbbell Pullover",
     "category": "Back",
     "duration": "00:45",
@@ -1615,7 +1632,7 @@
     ]
   },
   {
-    "id": "ex_096",
+    "id": "ex_097",
     "name": "Scapular Pull-Up",
     "category": "Back",
     "duration": "00:30",
@@ -1632,7 +1649,7 @@
     ]
   },
   {
-    "id": "ex_097",
+    "id": "ex_098",
     "name": "Chin Tuck",
     "category": "Face",
     "duration": "00:30",
@@ -1649,7 +1666,7 @@
     ]
   },
   {
-    "id": "ex_098",
+    "id": "ex_099",
     "name": "Neck Rotation",
     "category": "Face",
     "duration": "00:30",
@@ -1666,7 +1683,7 @@
     ]
   },
   {
-    "id": "ex_099",
+    "id": "ex_100",
     "name": "Neck Side Bend",
     "category": "Face",
     "duration": "00:30",
@@ -1683,7 +1700,7 @@
     ]
   },
   {
-    "id": "ex_100",
+    "id": "ex_101",
     "name": "Neck Flexion and Extension",
     "category": "Face",
     "duration": "00:30",
@@ -1700,7 +1717,7 @@
     ]
   },
   {
-    "id": "ex_101",
+    "id": "ex_102",
     "name": "Lip Press",
     "category": "Face",
     "duration": "00:30",
@@ -1717,7 +1734,7 @@
     ]
   },
   {
-    "id": "ex_102",
+    "id": "ex_103",
     "name": "Cheek Puff",
     "category": "Face",
     "duration": "00:30",
@@ -1734,7 +1751,7 @@
     ]
   },
   {
-    "id": "ex_103",
+    "id": "ex_104",
     "name": "Alternating Cheek Puff",
     "category": "Face",
     "duration": "00:30",
@@ -1751,7 +1768,7 @@
     ]
   },
   {
-    "id": "ex_104",
+    "id": "ex_105",
     "name": "Gentle Smile Hold",
     "category": "Face",
     "duration": "00:30",
@@ -1768,7 +1785,7 @@
     ]
   },
   {
-    "id": "ex_105",
+    "id": "ex_106",
     "name": "Eyebrow Raise",
     "category": "Face",
     "duration": "00:30",
@@ -1785,7 +1802,7 @@
     ]
   },
   {
-    "id": "ex_106",
+    "id": "ex_107",
     "name": "Gentle Eye Squeeze",
     "category": "Face",
     "duration": "00:30",
@@ -1802,7 +1819,7 @@
     ]
   },
   {
-    "id": "ex_107",
+    "id": "ex_108",
     "name": "Tongue-to-Palate Rest Position",
     "category": "Face",
     "duration": "00:30",
@@ -1819,7 +1836,7 @@
     ]
   },
   {
-    "id": "ex_108",
+    "id": "ex_109",
     "name": "Jaw Relaxation Drill",
     "category": "Face",
     "duration": "00:30",
@@ -1836,7 +1853,7 @@
     ]
   },
   {
-    "id": "ex_109",
+    "id": "ex_110",
     "name": "Gentle Jaw Opening",
     "category": "Jaw",
     "duration": "00:30",
@@ -1853,7 +1870,7 @@
     ]
   },
   {
-    "id": "ex_110",
+    "id": "ex_111",
     "name": "Controlled Jaw Lateral Movement",
     "category": "Jaw",
     "duration": "00:30",
@@ -1870,7 +1887,7 @@
     ]
   },
   {
-    "id": "ex_111",
+    "id": "ex_112",
     "name": "Controlled Jaw Protraction",
     "category": "Jaw",
     "duration": "00:30",
@@ -1887,7 +1904,7 @@
     ]
   },
   {
-    "id": "ex_112",
+    "id": "ex_113",
     "name": "Jaw Isometric Opening",
     "category": "Jaw",
     "duration": "00:30",
@@ -1904,7 +1921,7 @@
     ]
   },
   {
-    "id": "ex_113",
+    "id": "ex_114",
     "name": "Jaw Isometric Closing",
     "category": "Jaw",
     "duration": "00:30",
@@ -1921,7 +1938,7 @@
     ]
   },
   {
-    "id": "ex_114",
+    "id": "ex_115",
     "name": "Masseter Relaxation",
     "category": "Jaw",
     "duration": "00:30",
@@ -1938,7 +1955,7 @@
     ]
   },
   {
-    "id": "ex_115",
+    "id": "ex_116",
     "name": "Gentle Masseter Isometric",
     "category": "Jaw",
     "duration": "00:45",
@@ -1955,7 +1972,7 @@
     ]
   },
   {
-    "id": "ex_116",
+    "id": "ex_117",
     "name": "Tongue-to-Palate Jaw Relaxation",
     "category": "Jaw",
     "duration": "00:30",
@@ -1972,7 +1989,7 @@
     ]
   },
   {
-    "id": "ex_117",
+    "id": "ex_118",
     "name": "Chin Tuck with Jaw Relaxation",
     "category": "Jaw",
     "duration": "00:30",
@@ -1989,7 +2006,7 @@
     ]
   },
   {
-    "id": "ex_118",
+    "id": "ex_119",
     "name": "Slow Controlled Chewing Motion",
     "category": "Jaw",
     "duration": "00:30",
@@ -2006,7 +2023,7 @@
     ]
   },
   {
-    "id": "ex_119",
+    "id": "ex_120",
     "name": "Jaw Opening with Tongue Rest",
     "category": "Jaw",
     "duration": "00:30",
@@ -2023,7 +2040,7 @@
     ]
   },
   {
-    "id": "ex_120",
+    "id": "ex_121",
     "name": "Jaw Mobility Sequence",
     "category": "Jaw",
     "duration": "00:30",
