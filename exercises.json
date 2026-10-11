@@ -14,7 +14,8 @@
       "Keep your elbows close to your sides.",
       "Curl the weights toward your shoulders without swinging your upper arms.",
       "Lower the dumbbells under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_002",
@@ -31,7 +32,8 @@
       "Keep your elbows close to your torso.",
       "Curl the dumbbells toward your shoulders while maintaining the neutral grip.",
       "Lower the weights slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_003",
@@ -48,7 +50,8 @@
       "Brace the back of your upper arm against the inside of your thigh.",
       "Curl the dumbbell toward your shoulder.",
       "Lower it slowly until your elbow is extended comfortably."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_004",
@@ -65,7 +68,8 @@
       "Sit back with a dumbbell in each hand and let your arms hang naturally.",
       "Curl the dumbbells while keeping your upper arms relatively still.",
       "Lower them under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_005",
@@ -82,7 +86,8 @@
       "Keep your elbows near your sides.",
       "Curl the bar toward your chest.",
       "Lower it slowly without swinging."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_006",
@@ -99,7 +104,8 @@
       "Stand upright and hold the handle with an underhand grip.",
       "Curl the handle toward your shoulders.",
       "Return to the starting position under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_007",
@@ -116,7 +122,8 @@
       "Hold the handle with your elbows close to your torso.",
       "Push the handle downward until your elbows are comfortably extended.",
       "Return slowly to the starting position."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_008",
@@ -133,7 +140,8 @@
       "Keep your upper arms near your ears.",
       "Bend your elbows to lower the weight behind your head.",
       "Extend your elbows to raise the weight again."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_009",
@@ -150,7 +158,8 @@
       "Brace your trunk and lower your body with your elbows controlled.",
       "Press through your hands to return to the starting position.",
       "Keep your body aligned throughout the repetition."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_010",
@@ -167,7 +176,8 @@
       "Position your feet comfortably in front of you.",
       "Bend your elbows to lower your body a controlled distance.",
       "Press through your hands to return upward."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_011",
@@ -184,7 +194,8 @@
       "Lower your body while keeping your trunk stable.",
       "Press the floor away to extend your elbows.",
       "Maintain controlled movement throughout."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_012",
@@ -201,7 +212,8 @@
       "Grip the parallel handles and stabilize your shoulders.",
       "Lower your body with controlled elbow flexion.",
       "Press through the handles to return to the top."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_013",
@@ -218,7 +230,8 @@
       "Press the dumbbells upward without excessively arching your back.",
       "Lower them under control to shoulder level.",
       "Repeat smoothly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_014",
@@ -235,7 +248,8 @@
       "Brace your trunk and press the bar overhead.",
       "Move your head slightly back as needed to clear the bar.",
       "Lower the bar under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_015",
@@ -252,7 +266,8 @@
       "Raise your arms outward in a controlled arc.",
       "Stop around shoulder height or within a comfortable range.",
       "Lower the weights slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_016",
@@ -269,7 +284,8 @@
       "Stand sideways to the machine and hold the handle with the far hand.",
       "Raise the arm outward toward shoulder height.",
       "Lower it slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_017",
@@ -286,7 +302,8 @@
       "Raise one or both arms forward in a controlled motion.",
       "Stop around shoulder height if comfortable.",
       "Lower the weights slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_018",
@@ -303,7 +320,8 @@
       "Let the weights hang beneath your chest.",
       "Raise your arms outward while keeping the movement controlled.",
       "Lower them slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_019",
@@ -320,7 +338,8 @@
       "Pull the rope toward your face while separating your hands.",
       "Keep your shoulders controlled rather than shrugging.",
       "Return the rope slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_020",
@@ -337,7 +356,8 @@
       "Rotate your palms outward while pressing overhead.",
       "Lower the dumbbells while reversing the rotation.",
       "Use controlled movement throughout."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_021",
@@ -354,7 +374,8 @@
       "Brace your trunk and press the bar upward and forward.",
       "Keep the movement controlled.",
       "Return the bar toward your shoulder."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_022",
@@ -371,7 +392,8 @@
       "Raise your arms diagonally upward into a Y shape.",
       "Keep the motion smooth and avoid shrugging excessively.",
       "Lower your arms slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_023",
@@ -388,7 +410,8 @@
       "Raise your arms slightly forward from your sides.",
       "Lift them within a comfortable range.",
       "Lower them slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_024",
@@ -405,7 +428,8 @@
       "Grip the handles and brace your trunk.",
       "Press upward without locking the elbows aggressively.",
       "Return the handles under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_025",
@@ -422,7 +446,8 @@
       "Lower your body while maintaining a stable trunk.",
       "Press the floor away to return to the starting position.",
       "Use a controlled range of motion."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_026",
@@ -439,7 +464,8 @@
       "Walk your feet back into a straight-body position.",
       "Lower your chest toward the surface.",
       "Press back to the starting position."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_027",
@@ -456,7 +482,8 @@
       "Position your hands on the floor.",
       "Lower your chest toward the floor while maintaining alignment.",
       "Press back up."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_028",
@@ -473,7 +500,8 @@
       "Press the dumbbells upward while maintaining stable shoulders.",
       "Lower them under control toward the sides of your chest.",
       "Repeat smoothly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_029",
@@ -490,7 +518,8 @@
       "Grip the bar securely and unrack it with appropriate assistance when needed.",
       "Lower it toward the mid-chest under control.",
       "Press it upward without losing shoulder or trunk stability."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_030",
@@ -507,7 +536,8 @@
       "Hold dumbbells near the upper chest.",
       "Press them upward while keeping your shoulders controlled.",
       "Lower them slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_031",
@@ -524,7 +554,8 @@
       "Stand between the cables with a slight bend in your elbows.",
       "Bring your hands together in front of your chest.",
       "Return slowly while maintaining control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_032",
@@ -541,7 +572,8 @@
       "Maintain a slight bend in your elbows.",
       "Lower the weights outward in a controlled arc.",
       "Bring them back together above your chest."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_033",
@@ -558,7 +590,8 @@
       "Grip the handles and stabilize your shoulders.",
       "Press the handles forward.",
       "Return them slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_034",
@@ -575,7 +608,8 @@
       "Keep your body in a straight line.",
       "Lower your chest toward the platform.",
       "Press back up."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_035",
@@ -592,7 +626,8 @@
       "Brace your trunk and grip the pads or handles.",
       "Bring the arms together in front of you.",
       "Return slowly to the starting position."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_036",
@@ -609,7 +644,8 @@
       "Keep your torso aligned from your knees through your head.",
       "Lower your chest toward the floor.",
       "Press back up."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_037",
@@ -626,7 +662,8 @@
       "Plant your feet and brace your trunk.",
       "Drive through your feet to extend your hips.",
       "Pause briefly near the top and lower under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_038",
@@ -643,7 +680,8 @@
       "Brace your trunk.",
       "Drive through your feet to lift your hips.",
       "Lower your hips slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_039",
@@ -660,7 +698,8 @@
       "Brace your trunk and press through the planted foot.",
       "Lift your hips while keeping your pelvis controlled.",
       "Lower slowly and repeat."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_040",
@@ -677,7 +716,8 @@
       "Position the other foot far enough forward for a comfortable range.",
       "Lower your body by bending the front knee and hip.",
       "Drive through the front foot to stand."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_041",
@@ -694,7 +734,8 @@
       "Push your hips backward while keeping your spine neutral.",
       "Lower the weights along your legs until you feel an appropriate stretch.",
       "Drive your hips forward to stand."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_042",
@@ -711,7 +752,8 @@
       "Brace yourself against the machine.",
       "Extend the working leg backward without twisting your pelvis.",
       "Return the leg slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_043",
@@ -728,7 +770,8 @@
       "Brace your trunk and keep your pelvis stable.",
       "Drive one foot upward and backward without arching excessively.",
       "Lower the leg with control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_044",
@@ -745,7 +788,8 @@
       "Keep your pelvis stacked and stable.",
       "Raise the upper leg without rotating your toes upward.",
       "Lower it slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_045",
@@ -762,7 +806,8 @@
       "Adopt a comfortable athletic stance.",
       "Step sideways while maintaining band tension.",
       "Continue in both directions with controlled steps."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_046",
@@ -779,7 +824,8 @@
       "Place one foot fully on the platform.",
       "Drive through that foot to step upward.",
       "Lower yourself under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_047",
@@ -796,7 +842,8 @@
       "Step one foot backward.",
       "Lower your body while bending both knees.",
       "Push through the front foot to return to standing."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_048",
@@ -813,7 +860,8 @@
       "Allow your knees to open comfortably.",
       "Drive through your feet to lift your hips.",
       "Lower your hips under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_049",
@@ -830,7 +878,8 @@
       "Bend your hips and knees to lower your body.",
       "Keep your feet planted and your trunk controlled.",
       "Push through your feet to stand."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_050",
@@ -847,7 +896,8 @@
       "Squat down while keeping your feet planted.",
       "Maintain a controlled torso position.",
       "Drive through the floor to stand."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_051",
@@ -864,7 +914,8 @@
       "Brace your trunk and squat by bending the hips and knees.",
       "Keep the bar controlled over your base of support.",
       "Drive through your feet to return to standing."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_052",
@@ -881,7 +932,8 @@
       "Brace your trunk and descend into a squat.",
       "Keep your elbows appropriately elevated for your grip.",
       "Drive upward through your feet."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_053",
@@ -898,7 +950,8 @@
       "Release the safety mechanism according to the machine instructions.",
       "Lower the platform under control.",
       "Press through your feet to return without forcefully locking your knees."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_054",
@@ -915,7 +968,8 @@
       "Place your lower legs against the pad.",
       "Extend your knees smoothly.",
       "Lower the weight under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_055",
@@ -932,7 +986,8 @@
       "Keep your hips stable against the pad.",
       "Curl your heels toward your glutes.",
       "Lower the weight slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_056",
@@ -949,7 +1004,8 @@
       "Position your lower legs against the roller.",
       "Bend your knees to pull the roller downward and backward.",
       "Return the weight slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_057",
@@ -966,7 +1022,8 @@
       "Rise onto your toes as high as comfortable.",
       "Pause briefly near the top.",
       "Lower your heels slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_058",
@@ -983,7 +1040,8 @@
       "Raise your heels by pressing through the balls of your feet.",
       "Pause briefly at the top.",
       "Lower your heels slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_059",
@@ -1000,7 +1058,8 @@
       "Lower your body until both knees are comfortably bent.",
       "Push through the front foot to step forward.",
       "Alternate legs as you move."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_060",
@@ -1017,7 +1076,8 @@
       "Push your hips backward while maintaining a neutral spine.",
       "Lower the weights until an appropriate hamstring stretch is felt.",
       "Drive the hips forward to stand."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_061",
@@ -1034,7 +1094,8 @@
       "Brace your abdominal muscles while maintaining a controlled spine position.",
       "Slowly extend the opposite arm and leg.",
       "Return them and alternate sides."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_062",
@@ -1051,7 +1112,8 @@
       "Brace your trunk and extend one arm and the opposite leg.",
       "Keep your pelvis relatively level.",
       "Return slowly and switch sides."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_063",
@@ -1068,7 +1130,8 @@
       "Brace your trunk and keep your body aligned.",
       "Breathe normally while maintaining the position.",
       "Stop when you can no longer maintain good form."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_064",
@@ -1085,7 +1148,8 @@
       "Stack or stagger your feet for balance.",
       "Lift your hips until your body forms a straight line.",
       "Hold while maintaining controlled breathing."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_065",
@@ -1102,7 +1166,8 @@
       "Stack or stagger your feet for balance.",
       "Lift your hips until your body forms a straight line.",
       "Hold while maintaining controlled breathing."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_066",
@@ -1119,7 +1184,8 @@
       "Brace your abdomen and bring your knees toward your torso.",
       "Curl your pelvis gently upward without swinging.",
       "Lower your hips slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_067",
@@ -1136,7 +1202,8 @@
       "Lift your legs and bend your knees.",
       "Rotate your trunk as one knee moves toward the opposite elbow.",
       "Alternate sides with controlled movement."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_068",
@@ -1153,7 +1220,8 @@
       "Drive one knee toward your chest.",
       "Return the foot and alternate legs.",
       "Keep your trunk controlled rather than bouncing."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_069",
@@ -1170,7 +1238,8 @@
       "Lift your shoulders and legs slightly from the floor.",
       "Keep your lower back controlled against the floor.",
       "Hold for the prescribed duration."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_070",
@@ -1187,7 +1256,8 @@
       "Brace your trunk before moving.",
       "Roll forward only as far as you can maintain control.",
       "Pull the wheel back by engaging your trunk and hips."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_071",
@@ -1204,7 +1274,8 @@
       "Hold the handle at your chest.",
       "Brace your trunk and press your hands forward.",
       "Resist the pull trying to rotate your torso."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_072",
@@ -1221,7 +1292,8 @@
       "Brace your trunk and lower one knee toward the floor.",
       "Return the leg without shifting your torso excessively.",
       "Alternate sides."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_073",
@@ -1238,7 +1310,8 @@
       "Stand tall with your shoulders level.",
       "Brace your trunk and walk under control.",
       "Switch sides and repeat."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_074",
@@ -1255,7 +1328,8 @@
       "Hold light dumbbells with your palms facing upward.",
       "Curl your wrists upward.",
       "Lower the weights slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_075",
@@ -1272,7 +1346,8 @@
       "Hold light weights with your palms facing downward.",
       "Extend your wrists upward.",
       "Lower the weights under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_076",
@@ -1289,7 +1364,8 @@
       "Stand tall with your shoulders controlled.",
       "Walk with steady, deliberate steps.",
       "Set the weights down safely after the desired distance."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_077",
@@ -1306,7 +1382,8 @@
       "Stand upright while keeping the wrist neutral.",
       "Hold for the prescribed duration.",
       "Lower the plate carefully."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_078",
@@ -1323,7 +1400,8 @@
       "Hang with your body controlled and shoulders comfortable.",
       "Maintain the grip for the desired duration.",
       "Release carefully when finished."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_079",
@@ -1340,7 +1418,8 @@
       "Grip the towel firmly with both hands.",
       "Hang while maintaining controlled shoulders.",
       "Release carefully when your grip begins to fatigue."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_080",
@@ -1357,7 +1436,8 @@
       "Rotate the handle to wind the attached weight upward.",
       "Continue with controlled wrist movements.",
       "Reverse the direction to lower the weight."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_081",
@@ -1374,7 +1454,8 @@
       "Bend your elbows to approximately 90 degrees.",
       "Maintain the position without swinging.",
       "Lower the weights carefully."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_082",
@@ -1391,7 +1472,8 @@
       "Keep your elbows near your sides.",
       "Curl the bar upward.",
       "Lower it slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_083",
@@ -1408,7 +1490,8 @@
       "Rest your forearm securely while keeping your wrist free to move.",
       "Flex your wrist toward your palm.",
       "Return slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_084",
@@ -1425,7 +1508,8 @@
       "Keep the forearm stable.",
       "Extend your wrist upward.",
       "Return slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_085",
@@ -1442,7 +1526,8 @@
       "Open and close your hands against the rice resistance.",
       "Move your wrists and fingers through controlled directions.",
       "Stop if you experience pain or excessive fatigue."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_086",
@@ -1459,7 +1544,8 @@
       "Grip the bar comfortably wider than shoulder width.",
       "Pull the bar toward your upper chest while keeping your torso controlled.",
       "Return the bar slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_087",
@@ -1476,7 +1562,8 @@
       "Brace your trunk and pull your body upward.",
       "Move until your chin reaches the bar or an appropriate range.",
       "Lower yourself under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_088",
@@ -1493,7 +1580,8 @@
       "Grip the handles securely.",
       "Pull your body upward while keeping your trunk controlled.",
       "Lower under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_089",
@@ -1510,7 +1598,8 @@
       "Brace your trunk and maintain a controlled torso.",
       "Pull the handle toward your torso.",
       "Extend your arms slowly to return."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_090",
@@ -1527,7 +1616,8 @@
       "Hold the dumbbell with the opposite hand.",
       "Pull the weight toward your torso while keeping your shoulder controlled.",
       "Lower it slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_091",
@@ -1544,7 +1634,8 @@
       "Allow your arms to hang beneath you.",
       "Pull the dumbbells toward your torso.",
       "Lower them slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_092",
@@ -1561,7 +1652,8 @@
       "Brace your trunk and keep the bar close to your body.",
       "Pull the bar toward your lower chest or upper abdomen.",
       "Lower it under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_093",
@@ -1578,7 +1670,8 @@
       "Hang beneath it with your body straight.",
       "Pull your chest toward the bar.",
       "Lower yourself under control."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_094",
@@ -1595,7 +1688,8 @@
       "Stand facing the machine with arms extended.",
       "Pull the attachment downward toward your thighs while keeping the elbows mostly straight.",
       "Return slowly."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_095",
@@ -1612,7 +1706,8 @@
       "Brace your trunk and hinge at the hips.",
       "Extend your hips until your torso returns to a neutral position.",
       "Avoid excessive spinal hyperextension."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_096",
@@ -1629,7 +1724,8 @@
       "Lower the dumbbell behind your head through a comfortable range.",
       "Keep your trunk controlled.",
       "Pull the dumbbell back above your chest."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_097",
@@ -1646,7 +1742,8 @@
       "Keep your elbows mostly straight.",
       "Depress and retract your shoulder blades to raise your body slightly.",
       "Relax the shoulder blades in a controlled manner."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_098",
@@ -1663,7 +1760,8 @@
       "Gently draw your chin backward as though making a small double-chin motion.",
       "Hold briefly without looking downward.",
       "Relax and repeat."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_099",
@@ -1680,7 +1778,8 @@
       "Slowly rotate your head toward one side.",
       "Return to the center.",
       "Repeat toward the opposite side without forcing the range."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_100",
@@ -1697,7 +1796,8 @@
       "Slowly tilt one ear toward the same-side shoulder.",
       "Return to the center without rotating your head.",
       "Repeat on the other side."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_101",
@@ -1714,7 +1814,8 @@
       "Slowly nod your head forward within a comfortable range.",
       "Return to neutral and gently look upward without forcing the motion.",
       "Return to neutral between repetitions."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_102",
@@ -1731,7 +1832,8 @@
       "Gently press your lips together.",
       "Hold the contraction briefly without clenching your teeth.",
       "Relax completely."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_103",
@@ -1748,7 +1850,8 @@
       "Gently fill your cheeks with air.",
       "Hold briefly while keeping the jaw relaxed.",
       "Release the air slowly."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_104",
@@ -1765,7 +1868,8 @@
       "Move the air into one cheek.",
       "Transfer it slowly to the opposite cheek.",
       "Keep your jaw relaxed throughout."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_105",
@@ -1782,7 +1886,8 @@
       "Make a comfortable natural smile.",
       "Hold briefly without straining.",
       "Relax fully before repeating."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_106",
@@ -1799,7 +1904,8 @@
       "Raise both eyebrows gently.",
       "Hold briefly without wrinkling or straining excessively.",
       "Relax and repeat."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_107",
@@ -1816,7 +1922,8 @@
       "Gently close your eyes without squeezing forcefully.",
       "Hold briefly.",
       "Open your eyes and relax."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_108",
@@ -1833,7 +1940,8 @@
       "Keep the lips comfortably closed if nasal breathing is easy.",
       "Keep the teeth relaxed rather than clenched.",
       "Maintain normal, comfortable breathing."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_109",
@@ -1850,7 +1958,8 @@
       "Allow your jaw to hang comfortably with the teeth slightly separated.",
       "Breathe slowly and avoid clenching.",
       "Maintain the relaxed position for several breaths."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_110",
@@ -1867,7 +1976,8 @@
       "Slowly open your mouth within a comfortable range.",
       "Pause briefly without forcing the opening.",
       "Close your mouth gently."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_111",
@@ -1884,7 +1994,8 @@
       "Move your lower jaw slightly toward one side.",
       "Return to the center.",
       "Repeat toward the other side without forcing the range."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_112",
@@ -1901,7 +2012,8 @@
       "Move the lower jaw slightly forward.",
       "Hold briefly without clenching.",
       "Return to neutral."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_113",
@@ -1918,7 +2030,8 @@
       "Attempt to open your mouth gently while providing only minimal resistance.",
       "Hold briefly without pain or tooth clenching.",
       "Relax completely."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_114",
@@ -1935,7 +2048,8 @@
       "Place two fingers lightly against the underside of the chin.",
       "Gently attempt to close the jaw against minimal resistance.",
       "Relax immediately after the brief contraction."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_115",
@@ -1952,7 +2066,8 @@
       "Keep your teeth slightly separated.",
       "Breathe slowly while consciously relaxing the muscle.",
       "Avoid forceful massage or pressing on painful areas."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_116",
@@ -1969,7 +2084,8 @@
       "Bring your teeth together only very lightly.",
       "Hold the contraction briefly.",
       "Release completely and keep the jaw relaxed."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_117",
@@ -1986,7 +2102,8 @@
       "Keep the teeth separated or only lightly touching without clenching.",
       "Relax the jaw muscles.",
       "Breathe normally."
-    ]
+    ],
+    "challengeTargetType": "duration"
   },
   {
     "id": "ex_118",
@@ -2003,7 +2120,8 @@
       "Gently draw your chin backward without looking downward.",
       "Keep your teeth relaxed and avoid jaw clenching.",
       "Return to neutral."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_119",
@@ -2020,7 +2138,8 @@
       "Perform small, slow chewing-like movements.",
       "Avoid hard clenching or excessive repetition.",
       "Stop if the jaw becomes painful, clicks painfully, or feels fatigued."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_120",
@@ -2037,7 +2156,8 @@
       "Slowly open your jaw within a pain-free range.",
       "Pause briefly.",
       "Close gently and return to a relaxed position."
-    ]
+    ],
+    "challengeTargetType": "reps"
   },
   {
     "id": "ex_121",
@@ -2054,6 +2174,7 @@
       "Open and close the mouth slowly within a comfortable range.",
       "Perform small controlled side-to-side movements.",
       "Finish with the jaw relaxed and teeth unclenched."
-    ]
+    ],
+    "challengeTargetType": "reps"
   }
 ]
